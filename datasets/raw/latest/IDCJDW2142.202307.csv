@@ -1,0 +1,25 @@
+"Daily Weather Observations for Wellington, New South Wales for July 2023"
+"Prepared at 05:36 UTC on Wednesday 19 July 2023   IDCJDW2142.202307"
+"Copyright 2003 Commonwealth Bureau of Meteorology"
+"Observations were drawn from Wellington (D&J Rural) {station 065034}"
+
+,"Date","Minimum temperature (°C)","Maximum temperature (°C)","Rainfall (mm)","Evaporation (mm)","Sunshine (hours)","Direction of maximum wind gust ","Speed of maximum wind gust (km/h)","Time of maximum wind gust","9am Temperature (°C)","9am relative humidity (%)","9am cloud amount (oktas)","9am wind direction","9am wind speed (km/h)","9am MSL pressure (hPa)","3pm Temperature (°C)","3pm relative humidity (%)","3pm cloud amount (oktas)","3pm wind direction","3pm wind speed (km/h)","3pm MSL pressure (hPa)"
+,2023-07-1,6.3,14.6,0.2,,2.0,,,,7.6,96,8,NNE,4,,,,,,,
+,2023-07-2,2.0,16.2,0,,7.0,,,,5.0,84,0,S,9,,,,,,,
+,2023-07-3,3.6,17.5,0,,3.0,,,,7.0,86,2,S,9,,,,,,,
+,2023-07-4,6.9,13.6,0,,0.0,,,,12.0,100,8,,,,,,,,,
+,2023-07-5,10.7,14.9,12.4,,0.0,,,,12.5,94,8,NW,9,,,,,,,
+,2023-07-6,8.6,,0.6,,,,,,9.0,100,8, ,Calm,,,,,,,
+,2023-07-7,,12.6,,,2.0,,,,,,,,,,,,,,,
+,2023-07-8,2.1,15.0,0.2,,8.5,,,,6.5,,1,WNW,9,,,,,,,
+,2023-07-9,2.0,15.5,0,,7.5,,,,8.0,86,0,W,4,,,,,,,
+,2023-07-10,6.4,16.5,0,,8.5,,,,10.7,69,5,SW,4,,,,,,,
+,2023-07-11,4.4,16.2,0,,9.0,,,,10.0,65,0,SW,11,,,,,,,
+,2023-07-12,1.2,19.2,0,,9.0,,,,6.0,86,0,SSW,4,,,,,,,
+,2023-07-13,0.1,18.8,0,,9.2,,,,5.8,88,0,SW,9,,,,,,,
+,2023-07-14,0.0,19.8,0,,7.2,,,,5.2,86,0,S,7,,,,,,,
+,2023-07-15,3.8,20.0,0,,3.3,,,,9.1,85,8,SW,7,,,,,,,
+,2023-07-16,8.1,14.6,1.2,,1.1,,,,10.0,100,8,S,9,,,,,,,
+,2023-07-17,6.4,20.4,4.0,,8.0,,,,9.3,91,4,SW,11,,,,,,,
+,2023-07-18,3.5,16.6,0,,3.0,,,,8.5,90,7,SSW,11,,,,,,,
+,2023-07-19,-0.5,,0,,,,,,5.8,88,0,S,7,,,,,,,

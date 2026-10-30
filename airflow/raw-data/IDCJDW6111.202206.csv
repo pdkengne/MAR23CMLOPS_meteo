@@ -1,0 +1,39 @@
+"Daily Weather Observations for Perth, Western Australia for June 2022"
+"Prepared at 13:03 UTC on Thursday 13 July 2023   IDCJDW6111.202206"
+"Copyright 2003 Commonwealth Bureau of Meteorology"
+"A combination of observations from Mount Lawley and Perth Airport."
+"Significant variations can be experienced across the Perth metropolitan area on individual days. On average the inner city area is warmer overnight than the current observation sites. The current official Perth observation site is Perth Metro, however in the past Perth Regional Office and Perth Gardens have been official Perth observation sites.Some cloud observations are from automated equipment; these are somewhat different to those made by a human observer and may not appear every day."
+"Temperature, humidity, wind, pressure and rainfall observations are from Perth Metro {station 009225}"
+"Cloud, evaporation and sunshine observations are from Perth Airport {station 009021}"
+
+,"Date","Minimum temperature (°C)","Maximum temperature (°C)","Rainfall (mm)","Evaporation (mm)","Sunshine (hours)","Direction of maximum wind gust ","Speed of maximum wind gust (km/h)","Time of maximum wind gust","9am Temperature (°C)","9am relative humidity (%)","9am cloud amount (oktas)","9am wind direction","9am wind speed (km/h)","9am MSL pressure (hPa)","3pm Temperature (°C)","3pm relative humidity (%)","3pm cloud amount (oktas)","3pm wind direction","3pm wind speed (km/h)","3pm MSL pressure (hPa)"
+,2022-06-1,5.5,19.7,0,1.8,7.3,W,17,14:27,13.5,79,2,NNE,6,1020.7,17.6,53,7,WSW,9,1018.1
+,2022-06-2,6.5,20.0,0,1.4,5.8,SSW,26,15:53,10.9,85,7,S,4,1019.0,18.1,62,5,SW,13,1017.8
+,2022-06-3,5.5,18.1,0.8,1.6,8.6,S,26,13:21,10.8,96,5,SW,6,1024.0,17.1,45,2,SW,13,1021.4
+,2022-06-4,3.1,17.8,0,2.4,7.5,SSE,31,14:24,9.9,96,6,SSE,7,1025.3,17.3,46,3,S,15,1021.9
+,2022-06-5,3.3,18.1,0,2.2,8.8,ENE,20,16:15,10.3,90,1,S,6,1024.3,17.0,54,5,E,6,1021.4
+,2022-06-6,7.1,18.1,0,1.6,7.6,ENE,26,11:42,10.8,76,5,ESE,7,1023.9,18.0,47,1,ENE,9,1021.0
+,2022-06-7,8.6,18.7,0,2.8,6.5,NE,39,09:26,13.0,57,1,NE,13,1024.3,18.3,43,7,E,13,1019.9
+,2022-06-8,13.0,19.3,0,4.6,0.6,ENE,43,09:05,14.9,46,7,NE,20,1017.3,16.9,52,7,NE,11,1014.7
+,2022-06-9,11.7,20.9,8.0,3.2,4.9,NE,41,05:28,11.8,96,8,ENE,9,1015.7,20.6,62,4,NE,19,1010.3
+,2022-06-10,11.7,22.4,7.4,3.4,1.0,NNE,35,16:20,17.5,77,7,NE,13,1011.5,20.1,77,8,NNE,15,1008.8
+,2022-06-11,16.0,21.6,7.6,0.6,2.7,NE,28,01:11,16.9,99,6,NNE,11,1012.3,21.2,66,7,WNW,7,1010.9
+,2022-06-12,14.9,19.7,2.2,0.8,3.9,WSW,67,17:57,18.1,83,5,N,13,1010.2,18.4,57,7,W,19,1010.3
+,2022-06-13,13.1,19.4,13.4,2.2,4.2,WSW,52,03:00,17.5,53,6,WSW,11,1016.9,17.5,65,7,SSW,13,1016.9
+,2022-06-14,11.4,20.6,1.0,2.4,5.0,NNE,50,11:49,13.7,98,7,N,9,1020.0,20.0,57,2,W,4,1017.1
+,2022-06-15,13.1,21.5,1.0,1.4,2.9,NW,35,15:47,13.8,67,7,NE,11,1018.0,19.4,54,7,WNW,11,1015.2
+,2022-06-16,10.2,23.4,0.2,1.8,8.6,NE,22,11:47,14.8,84,1,NE,9,1017.0,23.3,46,3,N,7,1013.1
+,2022-06-17,13.1,21.5,0,4.4,4.6,W,43,16:33,17.1,83,7,N,15,1009.2,21.0,84,7,NW,15,1003.8
+,2022-06-18,13.5,18.2,10.6,0.8,3.7,W,50,17:42,15.2,66,7,W,13,1009.2,17.1,55,6,W,20,1008.7
+,2022-06-19,13.6,18.5,4.2,1.8,4.7,SW,43,11:12,16.0,78,6,SW,17,1014.7,16.5,78,6,SSW,19,1016.1
+,2022-06-20,11.7,19.9,1.4,2.0,3.2,NNW,19,15:01,14.0,98,7,NNE,9,1022.3,19.2,69,7,NNW,9,1020.5
+,2022-06-21,13.8,22.0,1.2,1.4,9.1,,,,16.4,81,7,NNE,6,1022.7,21.7,52,6,N,9,1019.1
+,2022-06-22,9.6,21.1,0.2,1.8,2.9,SW,24,14:42,13.3,93,7,N,2,1021.6,20.3,73,7,WSW,11,1020.1
+,2022-06-23,11.6,20.0,0.6,0.0,3.1,S,35,13:38,14.1,99,1,WSW,7,1023.5,14.8,91,7,SSE,9,1022.7
+,2022-06-24,8.6,19.2,0.8,1.4,8.0,S,28,15:46,12.5,99,1,SE,2,1027.6,17.8,57,3,S,9,1024.5
+,2022-06-25,7.5,19.4,0.2,1.8,9.1,ENE,20,11:55,13.2,78,1,SSW,6,1027.0,18.6,45,1,E,11,1024.5
+,2022-06-26,5.3,22.7,0,2.8,9.2,NE,31,12:10,13.3,69,0,E,11,1026.6,22.6,46,0,N,9,1023.9
+,2022-06-27,8.8,22.8,0,1.8,6.6,S,33,17:21,14.3,78,1,N,9,1027.3,21.2,65,7,WSW,19,1025.8
+,2022-06-28,6.4,18.0,0,1.8,7.7,SSE,22,11:44,11.5,86,3,SSE,6,1031.9,17.0,50,5,SSE,9,1028.9
+,2022-06-29,4.5,17.0,0,1.0,9.1,ENE,28,11:55,10.4,76,1,E,9,1033.2,16.8,51,1,E,11,1030.3
+,2022-06-30,6.7,18.5,0,3.8,9.1,N,31,11:07,12.4,74,1,ENE,7,1032.0,18.2,52,0,E,9,1029.1

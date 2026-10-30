@@ -1,0 +1,39 @@
+"Daily Weather Observations for Wollongong, New South Wales for June 2022"
+"Prepared at 13:00 UTC on Thursday 11 May 2023   IDCJDW2146.202206"
+"Copyright 2003 Commonwealth Bureau of Meteorology"
+"Most observations from Bellambi, which is about 7 km north of the Wollongong city centre."
+"Some cloud observations are from automated equipment; these are somewhat different to those made by a human observer and may not appear every day.  Albion Park is about 25 km southwest of Bellambi (and 18 km from Wollongong), and the pressure there will sometimes be markedly different."
+"Temperature, humidity, wind, cloud and rainfall observations are from Bellambi AWS {station 068228}"
+"Pressure observations are from Albion Park (Shellharbour Airport) {station 068241}"
+
+,"Date","Minimum temperature (°C)","Maximum temperature (°C)","Rainfall (mm)","Evaporation (mm)","Sunshine (hours)","Direction of maximum wind gust ","Speed of maximum wind gust (km/h)","Time of maximum wind gust","9am Temperature (°C)","9am relative humidity (%)","9am cloud amount (oktas)","9am wind direction","9am wind speed (km/h)","9am MSL pressure (hPa)","3pm Temperature (°C)","3pm relative humidity (%)","3pm cloud amount (oktas)","3pm wind direction","3pm wind speed (km/h)","3pm MSL pressure (hPa)"
+,2022-06-1,8.9,13.6,0,,,NW,102,08:43,10.6,44,,WNW,52,1003.7,12.9,42,,W,41,1006.4
+,2022-06-2,8.7,17.5,0,,,W,46,00:09,13.3,52,,W,15,1020.6,16.6,48,,ESE,6,1018.5
+,2022-06-3,8.9,15.7,0,,,WNW,28,19:24,12.7,59,8,WNW,7,1017.2,15.5,52,7,N,15,1011.8
+,2022-06-4,9.9,17.4,0.4,,,WNW,52,16:12,12.8,54,,WSW,20,1011.2,17.3,46,,WNW,9,1010.6
+,2022-06-5,9.5,18.9,0,,,N,46,16:05,13.0,67,5,N,28,1011.7,17.0,48,7,NNW,30,1006.4
+,2022-06-6,9.6,16.1,1.2,,,NW,113,10:25,12.6,56,,NW,63,1002.8,15.1,39,,W,30,1006.2
+,2022-06-7,9.1,16.5,0,,,WNW,76,13:12,12.7,52,8,N,6,1010.7,15.7,41,1,WNW,11,1007.4
+,2022-06-8,9.3,15.4,0,,,W,65,06:06,11.2,50,,WSW,17,1013.8,14.6,39,,W,20,1013.5
+,2022-06-9,9.4,15.6,0,,,W,69,20:09,12.2,47,,WNW,33,1012.7,14.6,45,,WNW,30,1011.4
+,2022-06-10,10.9,17.2,0,,,W,57,15:25,13.3,52,,WSW,22,1014.0,16.2,42,,W,28,1012.2
+,2022-06-11,10.6,16.6,0,,,W,76,23:51,12.6,52,,W,20,1015.0,15.2,39,2,W,24,1011.1
+,2022-06-12,10.8,17.1,0,,,WNW,100,01:19,13.5,48,,WSW,20,1012.4,15.7,45,,W,30,1011.7
+,2022-06-13,9.5,15.6,0,,,W,39,00:26,12.7,57,,SW,17,1022.2,14.9,49,,E,7,1020.7
+,2022-06-14,7.5,17.5,0,,,NE,28,13:39,12.7,63,,WNW,6,1024.8,16.8,52,,NNE,17,1020.6
+,2022-06-15,8.7,17.8,0,,,WNW,37,23:55,14.1,49,,WNW,9,1019.6,16.7,53,,ESE,7,1016.7
+,2022-06-16,10.7,21.2,0,,,W,48,21:38,13.7,63,6,W,2,1017.2,19.8,45,3,W,17,1014.7
+,2022-06-17,11.9,18.0,0,,,SSW,41,11:26,15.5,57,,WSW,17,1019.4,17.1,55,1,SSW,22,1019.2
+,2022-06-18,12.1,17.5,0,,,S,44,15:13,14.4,61,1,SW,20,1026.1,16.4,68,,S,35,1025.5
+,2022-06-19,11.7,17.5,0,,,S,39,14:45,14.8,67,,SW,17,1028.0,16.6,72,,S,31,1026.2
+,2022-06-20,11.9,16.0,4.6,,,SSW,31,01:07,13.8,86,8,SW,15,1025.5,15.0,83,8,SW,13,1023.0
+,2022-06-21,11.4,19.7,0.4,,,NNW,35,01:27,15.9,63,4,N,15,1020.3,17.9,60,8,NW,17,1018.2
+,2022-06-22,10.0,16.9,0.4,,,WSW,35,00:47,13.6,51,2,W,9,1024.5,16.5,50,,ESE,7,1022.8
+,2022-06-23,11.4,18.9,0,,,WNW,39,22:32,14.6,59,1,W,20,1023.8,17.8,48,,W,20,1020.5
+,2022-06-24,12.8,18.1,0,,,NW,57,14:06,15.6,52,8,WSW,19,1017.8,17.1,47,8,WSW,13,1016.6
+,2022-06-25,12.5,20.1,0,,,NW,37,00:05,16.2,58,,WNW,6,1021.1,18.9,41,,W,20,1019.7
+,2022-06-26,10.3,19.3,0,,,WSW,30,23:18,15.2,67,,NW,15,1024.5,17.5,60,8,SSE,15,1022.4
+,2022-06-27,10.8,14.7,0,,,SSW,61,14:21,13.1,60,,SW,22,1027.0,13.7,48,1,SSW,43,1027.5
+,2022-06-28,9.2,15.0,0,,,SSW,43,10:08,12.1,60,8,SW,17,1031.9,14.5,64,6,S,28,1029.6
+,2022-06-29,10.1,18.0,0,,,NNW,35,11:53,13.7,64,2,NW,19,1026.7,16.3,51,8,NNW,17,1022.3
+,2022-06-30,11.3,17.4,0,,,S,31,16:00,13.7,58,7,WSW,13,1023.8,16.3,46,7,S,17,1023.5

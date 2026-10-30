@@ -1,0 +1,36 @@
+"Daily Weather Observations for Newcastle, New South Wales for February 2023"
+"Prepared at 13:00 UTC on Sunday  4 June 2023   IDCJDW2097.202302"
+"Copyright 2003 Commonwealth Bureau of Meteorology"
+"Most observations from Nobbys Head, but cloud from Newcastle University."
+"Temperature, humidity, wind and rainfall observations are from Newcastle Nobbys Signal Station AWS {station 061055}"
+"Cloud observations are from Newcastle University {station 061390}"
+
+,"Date","Minimum temperature (°C)","Maximum temperature (°C)","Rainfall (mm)","Evaporation (mm)","Sunshine (hours)","Direction of maximum wind gust ","Speed of maximum wind gust (km/h)","Time of maximum wind gust","9am Temperature (°C)","9am relative humidity (%)","9am cloud amount (oktas)","9am wind direction","9am wind speed (km/h)","9am MSL pressure (hPa)","3pm Temperature (°C)","3pm relative humidity (%)","3pm cloud amount (oktas)","3pm wind direction","3pm wind speed (km/h)","3pm MSL pressure (hPa)"
+,2023-02-1,21.1,24.9,,,,SSW,35,23:26,22.7,68,,SSW,19,,23.8,78,,SSE,28,
+,2023-02-2,22.2,28.7,,,,NE,52,14:53,24.5,80,,NE,13,,25.8,81,,ENE,28,
+,2023-02-3,21.7,31.8,0,,,WNW,43,09:43,26.1,41,,W,26,,31.2,36,,NW,22,
+,2023-02-4,19.8,29.0,0,,,W,54,10:10,21.4,36,,W,24,,28.3,21,,W,24,
+,2023-02-5,17.4,25.3,0,,,ENE,35,20:59,22.2,41,,WNW,11,,24.2,52,,ESE,26,
+,2023-02-6,22.2,26.9,0,,,ENE,44,18:15,23.7,73,,NE,9,,25.4,69,,E,33,
+,2023-02-7,22.8,26.3,0,,,ENE,43,17:17,25.0,75,,NE,17,,25.4,67,,E,31,
+,2023-02-8,22.4,26.1,0,,,E,43,15:11,24.5,65,,NE,15,,25.1,65,,E,35,
+,2023-02-9,21.9,25.2,0,,,NNE,35,08:39,23.3,72,,NE,20,,23.8,74,,S,7,
+,2023-02-10,19.7,27.9,0,,,ENE,37,16:28,22.4,80,,NW,11,,25.6,67,,E,28,
+,2023-02-11,19.8,27.0,0,,,ENE,46,14:49,22.5,77,,N,9,,25.6,73,,ENE,33,
+,2023-02-12,20.9,27.9,0,,,S,61,14:03,26.8,45,,SW,13,,23.9,80,,S,46,
+,2023-02-13,22.3,24.4,0,,,SSE,43,04:56,22.7,72,,SE,30,,23.9,66,,SSE,26,
+,2023-02-14,19.5,24.6,7.2,,,S,43,09:07,20.0,87,,SW,17,,23.4,66,,ENE,19,
+,2023-02-15,18.5,26.1,2.6,,,ENE,35,17:56,22.4,75,,N,6,,24.4,60,,E,28,
+,2023-02-16,18.9,26.1,0,,,ENE,46,16:17,21.4,71,,NNW,9,,24.7,66,,ENE,31,
+,2023-02-17,19.9,26.0,0,,,ENE,48,15:00,22.1,75,,NNE,7,,24.8,73,,ENE,33,
+,2023-02-18,20.6,29.4,0,,,SSW,72,19:21,22.7,80,,NNW,9,,25.6,70,,ENE,33,
+,2023-02-19,20.8,25.7,3.0,,,NNE,70,23:28,23.7,81,,SSW,20,,24.6,83,,S,24,
+,2023-02-20,22.1,27.9,0,,,ENE,48,15:21,23.9,77,,NNE,11,,25.6,73,,ENE,33,
+,2023-02-21,21.8,26.9,0,,,ENE,52,15:45,23.2,76,,NNE,11,,25.3,74,,ENE,33,
+,2023-02-22,19.7,21.8,15.4,,,,,,20.3,91,,SE,26,,18.6,87,,SE,41,
+,2023-02-23,17.9,23.9,40.4,,,ESE,52,06:05,21.6,74,,ESE,19,,22.2,65,,ESE,33,
+,2023-02-24,19.2,25.7,1.4,,,E,41,03:14,23.6,61,,ENE,6,,23.9,57,,E,22,
+,2023-02-25,18.9,25.4,0,,,ENE,41,15:00,20.9,79,,N,7,,23.6,67,,ENE,31,
+,2023-02-26,17.8,31.5,0,,,ENE,39,16:19,19.8,81,,NW,15,,24.8,73,,ENE,26,
+,2023-02-27,19.6,25.1,0,,,SSW,37,07:42,23.3,86,,SSW,24,,24.9,78,,SE,19,
+,2023-02-28,22.3,25.8,0,,,ENE,35,17:27,23.2,76,,SE,17,,24.9,75,,E,19,

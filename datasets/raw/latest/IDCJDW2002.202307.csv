@@ -1,0 +1,27 @@
+"Daily Weather Observations for Albury-Wodonga for July 2023"
+"Prepared at 05:36 UTC on Wednesday 19 July 2023   IDCJDW2002.202307"
+"Copyright 2003 Commonwealth Bureau of Meteorology"
+"Observations from Albury airport."
+"Some cloud observations are from automated equipment; these are somewhat different to those made by a human observer and may not appear every day."
+"Observations were drawn from Albury Airport AWS {station 072160}"
+
+,"Date","Minimum temperature (°C)","Maximum temperature (°C)","Rainfall (mm)","Evaporation (mm)","Sunshine (hours)","Direction of maximum wind gust ","Speed of maximum wind gust (km/h)","Time of maximum wind gust","9am Temperature (°C)","9am relative humidity (%)","9am cloud amount (oktas)","9am wind direction","9am wind speed (km/h)","9am MSL pressure (hPa)","3pm Temperature (°C)","3pm relative humidity (%)","3pm cloud amount (oktas)","3pm wind direction","3pm wind speed (km/h)","3pm MSL pressure (hPa)"
+,2023-07-1,8.1,13.7,1.2,,,W,30,10:48,8.9,92,8,W,17,1023.9,12.4,71,8,WSW,15,1023.8
+,2023-07-2,2.1,15.6,0.2,,,W,20,15:31,5.2,99,8,SE,9,1033.4,14.6,51,,WSW,4,1031.2
+,2023-07-3,1.2,14.0,0,,,ESE,13,12:29,6.0,98,, ,Calm,1032.3,13.7,67,,ESE,6,1026.6
+,2023-07-4,6.0,11.8,2.6,,,SE,17,14:18,8.4,96,8, ,Calm,1019.9,10.6,96,8,SE,9,1013.6
+,2023-07-5,8.4,12.1,26.8,,,W,30,08:42,10.2,94,8,W,24,1014.2,11.3,64,8,WNW,17,1014.6
+,2023-07-6,7.6,11.7,0,,,NW,28,17:55,9.0,89,8,SE,7,1014.9,11.3,74,8,N,17,1010.8
+,2023-07-7,7.2,12.9,6.2,,,W,31,11:25,10.0,91,8,NW,11,1012.8,11.5,77,5,W,15,1013.6
+,2023-07-8,7.4,13.4,5.2,,,WNW,48,12:58,7.5,90,8,N,20,1011.8,11.4,73,8,WNW,28,1010.5
+,2023-07-9,7.5,11.4,2.4,,,WNW,33,05:11,8.4,92,,WNW,20,1019.6,10.8,91,8,NW,11,1019.4
+,2023-07-10,8.4,13.9,1.4,,,NW,31,13:28,10.6,91,7,NW,9,1024.7,12.8,68,7,NNW,11,1023.6
+,2023-07-11,5.9,14.3,0.2,,,NNW,15,15:26,9.7,87,8,NNW,7,1028.1,12.8,76,8,N,6,1027.9
+,2023-07-12,5.1,15.5,0,,,ENE,15,10:08,8.2,97,8,ESE,2,1032.2,14.4,66,5, ,Calm,1029.3
+,2023-07-13,3.4,14.3,0,,,NNE,15,04:29,7.4,99,8, ,Calm,1030.5,13.1,71,1,SSE,9,1027.0
+,2023-07-14,2.0,16.3,0.2,,,N,26,14:02,5.3,98,3, ,Calm,1026.2,15.8,50,,N,15,1021.8
+,2023-07-15,2.5,17.3,0,,,NE,15,12:50,5.7,98,, ,Calm,1021.6,16.4,58,,ESE,2,1019.6
+,2023-07-16,1.4,16.9,0,,,WSW,15,17:25,5.8,99,6, ,Calm,1028.4,16.4,60,, ,Calm,1027.9
+,2023-07-17,1.0,,0,,,,,,7.7,94,, ,Calm,1031.5,14.9,66,,ESE,7,1027.7
+,2023-07-18,,14.8,,,,WSW,48,16:29,6.9,99,8, ,Calm,1024.4,14.4,52,,W,19,1021.1
+,2023-07-19,-0.4,,0.2,,,,,,3.8,99,,SE,6,1026.7,11.9,55,,S,9,1023.8

@@ -1,0 +1,37 @@
+"Daily Weather Observations for Albany, Western Australia for February 2023"
+"Prepared at 13:02 UTC on Sunday  4 June 2023   IDCJDW6001.202302"
+"Copyright 2003 Commonwealth Bureau of Meteorology"
+"Most observations from a city site down near the harbour, but some from the airport."
+"The airport is approximately 11 kilometres inland and on some days can experience quite different evaporation and sunshine conditions from those in the city."
+"Temperature, humidity, wind, cloud and rainfall observations are from Albany {station 009500}"
+"Pressure, evaporation and sunshine observations are from Albany Airport {station 009999}"
+
+,"Date","Minimum temperature (°C)","Maximum temperature (°C)","Rainfall (mm)","Evaporation (mm)","Sunshine (hours)","Direction of maximum wind gust ","Speed of maximum wind gust (km/h)","Time of maximum wind gust","9am Temperature (°C)","9am relative humidity (%)","9am cloud amount (oktas)","9am wind direction","9am wind speed (km/h)","9am MSL pressure (hPa)","3pm Temperature (°C)","3pm relative humidity (%)","3pm cloud amount (oktas)","3pm wind direction","3pm wind speed (km/h)","3pm MSL pressure (hPa)"
+,2023-02-1,16.4,20.9,0.8,,,,,,18.0,76,7,ESE,28,1021.8,,,,,,1020.2
+,2023-02-2,15.8,21.6,0,,,,,,18.4,84,8,SE,15,1022.1,,,,,,1019.9
+,2023-02-3,17.2,22.6,0,,,,,,19.8,88,7,E,30,1019.7,,,,,,1016.1
+,2023-02-4,17.2,24.9,0,,,,,,22.2,55,1,ESE,19,1013.9,,,,,,1009.6
+,2023-02-5,18.4,26.2,0,,,,,,21.2,84,8,S,9,1008.7,,,,,,1005.9
+,2023-02-6,19.8,24.5,,,,,,,22.5,70,6,SE,28,1006.3,,,,,,1006.1
+,2023-02-7,19.0,23.0,0,,,,,,20.4,85,8,S,17,1012.0,,,,,,1012.4
+,2023-02-8,18.1,23.3,0,,,,,,20.2,74,8,S,19,1014.8,,,,,,1013.3
+,2023-02-9,18.0,23.1,0,,,,,,19.4,68,8,S,9,1015.6,,,,,,1013.4
+,2023-02-10,15.5,24.5,0,,,,,,21.7,62,1,ENE,7,1008.6,,,,,,1007.2
+,2023-02-11,17.9,21.5,0,,,,,,18.4,81,8,S,19,1016.1,,,,,,1016.1
+,2023-02-12,17.2,22.3,0,,,,,,19.9,56,3,SSE,22,1019.2,,,,,,1017.6
+,2023-02-13,13.9,24.7,0,,,,,,21.1,56,0,NE,9,1017.1,,,,,,1010.7
+,2023-02-14,16.0,22.5,0,,,,,,20.1,79,6,SW,33,1005.9,,,,,,1005.9
+,2023-02-15,15.5,22.0,0.4,,,,,,19.0,63,7,W,9,1010.5,,,,,,1009.3
+,2023-02-16,13.0,24.9,0,,,,,,21.5,55,1,N,11,1013.4,,,,,,1010.8
+,2023-02-17,16.0,23.8,0,,,,,,22.0,68,3,W,13,1016.5,,,,,,1014.8
+,2023-02-18,15.7,25.0,0,,,,,,22.0,65,3,ESE,9,1017.9,,,,,,1014.2
+,2023-02-19,16.2,24.0,0,,,,,,21.6,70,4,S,19,1016.2,,,,,,1014.9
+,2023-02-20,19.4,24.2,0,,,,,,21.2,68,6,E,39,1016.3,,,,,,1014.0
+,2023-02-21,20.1,28.2,0,,,,,,22.9,79,3,S,20,1008.5,,,,,,1007.4
+,2023-02-22,18.3,25.2,0,,,,,,22.9,72,5,SW,11,1012.9,,,,,,1010.4
+,2023-02-23,16.2,19.8,1.8,,,,,,18.0,71,7,SW,33,1012.5,,,,,,1014.6
+,2023-02-24,12.1,21.2,0,,,,,,17.8,54,6,SW,19,1019.5,,,,,,1019.0
+,2023-02-25,15.0,22.9,0,,,,,,19.5,76,8,SE,15,1020.7,,,,,,1018.7
+,2023-02-26,18.0,22.9,0,,,,,,21.7,60,3,E,13,1017.9,,,,,,1014.6
+,2023-02-27,18.0,24.0,0,,,,,,21.7,60,6,ESE,31,1016.6,,,,,,1015.6
+,2023-02-28,18.7,23.2,0,,,,,,20.2,78,8,E,15,1021.3,,,,,,1020.1

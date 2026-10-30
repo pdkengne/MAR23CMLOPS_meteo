@@ -1,0 +1,9 @@
+{
+    "admin": {
+        "username": "admin",
+        "hashed_password": "$2b$12$rtLdMk3jeZnex83ks7jvzemAkLA8YKpe.RTI926qx/neGePzruFaa",
+        "surname": "admin",
+        "name": "master",
+        "email": "admin-master@domain.com"
+    }
+}

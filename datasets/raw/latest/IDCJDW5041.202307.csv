@@ -1,0 +1,26 @@
+"Daily Weather Observations for Mount Gambier, South Australia for July 2023"
+"Prepared at 07:00 UTC on Wednesday 19 July 2023   IDCJDW5041.202307"
+"Copyright 2003 Commonwealth Bureau of Meteorology"
+"Some cloud observations are from automated equipment; these are somewhat different to those made by a human observer and may not appear every day."
+"Observations were drawn from Mount Gambier Aero {station 026021}"
+
+,"Date","Minimum temperature (°C)","Maximum temperature (°C)","Rainfall (mm)","Evaporation (mm)","Sunshine (hours)","Direction of maximum wind gust ","Speed of maximum wind gust (km/h)","Time of maximum wind gust","9am Temperature (°C)","9am relative humidity (%)","9am cloud amount (oktas)","9am wind direction","9am wind speed (km/h)","9am MSL pressure (hPa)","3pm Temperature (°C)","3pm relative humidity (%)","3pm cloud amount (oktas)","3pm wind direction","3pm wind speed (km/h)","3pm MSL pressure (hPa)"
+,2023-07-1,7.8,13.0,1.8,,,WSW,41,00:53,9.6,95,8,SW,9,1027.2,12.1,86,2,SSW,17,1028.6
+,2023-07-2,6.6,12.6,1.2,,,SE,20,16:21,9.7,96,8, ,Calm,1035.5,11.8,89,8,SSE,9,1033.4
+,2023-07-3,3.1,11.4,0.2,,,NNE,19,14:30,5.8,98,7,NE,11,1028.5,10.8,86,8,NNE,11,1023.7
+,2023-07-4,5.8,11.0,1.8,,,N,24,22:20,8.6,98,8,NNE,11,1016.0,10.8,87,8,N,11,1011.3
+,2023-07-5,5.8,15.2,0,,,N,37,12:47,7.9,88,2,N,20,1010.5,13.7,73,6,N,20,1008.1
+,2023-07-6,7.8,12.3,0.2,,,N,54,11:58,10.1,86,1,NNE,26,1004.4,9.9,92,8,N,22,1001.6
+,2023-07-7,5.5,14.1,6.2,,,N,70,23:37,9.0,92,1,N,17,1009.3,11.5,94,5,NNW,30,1006.4
+,2023-07-8,8.7,13.1,19.8,,,WSW,93,14:00,9.1,84,6,WSW,44,1005.6,10.2,81,6,WNW,33,1009.0
+,2023-07-9,8.4,14.1,8.6,,,W,57,01:43,12.7,85,,WNW,17,1017.4,12.9,79,8,WNW,20,1018.5
+,2023-07-10,10.0,15.4,1.0,,,NW,50,15:58,11.7,85,8,NNW,22,1020.6,14.6,77,8,NNW,30,1019.2
+,2023-07-11,8.8,17.2,1.2,,,WNW,43,00:50,12.1,96,6,N,13,1025.6,15.1,79,8,WNW,15,1025.4
+,2023-07-12,7.2,15.9,0.8,,,N,46,14:01,9.2,84,,N,17,1027.3,14.9,67,4,NNW,22,1024.8
+,2023-07-13,7.8,14.8,0,,,N,46,13:47,9.8,75,,N,20,1022.8,14.1,62,,N,24,1018.1
+,2023-07-14,8.3,14.2,0,,,N,46,01:03,9.7,73,,N,20,1016.0,13.7,74,8,NNW,20,1013.3
+,2023-07-15,8.0,13.3,7.0,,,WSW,35,13:33,9.2,97,8, ,Calm,1019.2,11.4,57,4,WSW,17,1022.1
+,2023-07-16,5.9,13.7,0,,,NW,31,13:35,10.3,85,8,NNW,13,1029.5,12.7,71,8,NW,19,1028.7
+,2023-07-17,5.6,13.8,0,,,N,41,13:13,8.9,80,1,N,17,1028.3,12.9,61,5,NNW,20,1024.6
+,2023-07-18,4.7,14.0,2.8,,,WSW,57,06:46,11.0,79,8,WSW,19,1021.4,12.2,68,4,SW,30,1024.3
+,2023-07-19,-0.7,,0,,,,,,6.0,83,7,NNE,15,1025.8,11.7,60,,N,20,1020.3

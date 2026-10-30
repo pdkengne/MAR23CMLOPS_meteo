@@ -1,0 +1,39 @@
+"Daily Weather Observations for Dartmoor, Victoria for April 2023"
+"Prepared at 16:01 UTC on Friday  2 June 2023   IDCJDW3101.202304"
+"Copyright 2003 Commonwealth Bureau of Meteorology"
+"Most observations from Dartmoor, but evaporation and sunshine from Mt Gambier."
+"Mt Gambier is about 50 km to the west of Dartmoor, and conditions may differ markedly between the two on any given day; the results for evaporation and sunshine, and the climate averages listed below, should be used with caution."
+"Temperature, humidity, wind, pressure and rainfall observations are from Dartmoor {station 090194}"
+"Evaporation and sunshine observations are from Mount Gambier Aero {station 026021}"
+
+,"Date","Minimum temperature (°C)","Maximum temperature (°C)","Rainfall (mm)","Evaporation (mm)","Sunshine (hours)","Direction of maximum wind gust ","Speed of maximum wind gust (km/h)","Time of maximum wind gust","9am Temperature (°C)","9am relative humidity (%)","9am cloud amount (oktas)","9am wind direction","9am wind speed (km/h)","9am MSL pressure (hPa)","3pm Temperature (°C)","3pm relative humidity (%)","3pm cloud amount (oktas)","3pm wind direction","3pm wind speed (km/h)","3pm MSL pressure (hPa)"
+,2023-04-1,7.3,16.2,2.0,,,SSW,31,17:24,10.8,82,,S,4,1022.0,15.4,54,,S,17,1022.2
+,2023-04-2,10.1,16.4,0,,,S,19,17:19,12.8,81,,SSW,7,1022.5,15.7,69,,SW,6,1020.3
+,2023-04-3,4.2,20.9,0,,,SSW,28,15:47,11.5,96,,SSE,4,1019.8,19.6,61,,S,13,1016.8
+,2023-04-4,4.9,21.3,0,,,S,22,13:55,10.8,99,, ,Calm,1020.1,20.9,59,,ESE,7,1017.8
+,2023-04-5,7.6,21.1,0.2,,,ESE,33,16:02,13.0,99,,ESE,6,1018.7,19.4,63,,SE,17,1015.7
+,2023-04-6,8.7,19.0,0,,,NW,24,22:08,12.8,92,,ESE,7,1009.1,18.7,80,,NE,4,1005.1
+,2023-04-7,12.7,18.2,39.6,,,SSW,28,18:31,14.3,98,,SSW,4,1000.4,16.3,87,,SW,11,1001.1
+,2023-04-8,11.8,16.4,2.4,,,SW,43,15:08,12.4,92,,WSW,11,1010.0,14.2,79,,SSW,22,1009.9
+,2023-04-9,10.1,15.4,1.6,,,SSW,39,14:16,11.7,87,,NNW,2,1016.5,13.7,73,,SSW,15,1016.2
+,2023-04-10,6.1,16.6,0.8,,,SSE,31,10:56,11.2,99,, ,Calm,1018.2,14.4,74,,S,17,1016.2
+,2023-04-11,9.1,16.9,0.2,,,NNE,33,23:13,11.9,94,,NNW,2,1016.4,15.9,69,,NNE,13,1010.5
+,2023-04-12,11.9,18.3,15.0,,,WNW,44,12:10,16.8,90,,NW,17,1001.6,16.7,77,,WSW,20,1004.5
+,2023-04-13,14.3,21.7,4.2,,,ESE,26,15:53,15.9,95,,ESE,7,1015.7,20.5,64,,E,11,1015.3
+,2023-04-14,11.9,22.0,0.2,,,N,35,23:23,14.0,97,,NE,11,1013.0,21.0,57,,NNE,20,1006.8
+,2023-04-15,13.9,17.2,7.0,,,NNW,59,04:43,14.1,97,,WSW,6,999.5,15.9,92,,NNW,7,998.5
+,2023-04-16,8.9,16.8,7.0,,,SW,39,12:01,12.3,91,,NW,6,1008.5,14.9,61,,WSW,13,1012.2
+,2023-04-17,10.8,20.0,0.4,,,N,33,13:56,14.3,95,,NNW,11,1021.9,17.5,91,,NNW,13,1021.2
+,2023-04-18,13.2,21.5,3.4,,,W,41,16:06,15.3,80,,N,15,1021.2,20.2,65,,WNW,13,1017.5
+,2023-04-19,8.0,17.1,1.8,,,SW,35,13:56,12.5,87,,WNW,6,1023.5,15.0,64,,W,13,1023.3
+,2023-04-20,9.2,19.2,0.8,,,WSW,26,14:22,11.7,95,,NNW,6,1026.7,15.7,90,,W,2,1026.1
+,2023-04-21,11.6,17.9,1.4,,,SW,20,13:51,14.5,99,,NNW,6,1030.8,16.5,91,,SW,6,1029.6
+,2023-04-22,11.1,18.5,1.4,,,WSW,19,17:15,12.8,99,,N,4,1031.8,18.1,77,,WSW,6,1030.2
+,2023-04-23,12.5,19.6,0,,,ESE,19,12:33,14.6,98,, ,Calm,1034.4,19.1,63,,ESE,7,1032.2
+,2023-04-24,6.1,23.5,0,,,NNW,28,13:03,11.8,98,,E,2,1030.8,22.9,54,,NNW,11,1027.3
+,2023-04-25,9.2,25.3,0.2,,,N,24,11:50,14.2,97,,ENE,4,1027.3,24.9,49,,NW,9,1024.0
+,2023-04-26,10.1,25.0,0,,,NNE,33,11:54,17.3,70,,NNE,9,1022.3,23.9,54,,NNE,11,1016.3
+,2023-04-27,14.2,21.5,24.6,,,WSW,35,03:04,15.4,92,,N,7,1012.8,21.0,64,,NNW,17,1010.3
+,2023-04-28,12.6,15.1,2.4,,,NW,33,06:30,13.0,88,,WNW,4,1011.3,13.9,88,,WNW,4,1011.8
+,2023-04-29,3.6,15.6,,,,SW,28,12:41,8.1,98,,NNE,4,1015.0,12.0,84,,W,6,1014.2
+,2023-04-30,7.1,17.2,0.4,,,N,20,10:22,11.2,89,,N,9,1017.3,16.4,77,,N,9,1015.3

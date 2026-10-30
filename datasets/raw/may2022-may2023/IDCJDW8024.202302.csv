@@ -1,0 +1,37 @@
+"Daily Weather Observations for Katherine, Northern Territory for February 2023"
+"Prepared at 13:03 UTC on Sunday  4 June 2023   IDCJDW8024.202302"
+"Copyright 2003 Commonwealth Bureau of Meteorology"
+"Most observations from Katherine Country Club, but some from Tindal RAAF base."
+"Observations were previously taken at the Katherine Aviation Museum; if you require these please contact us. Tindal RAAF base is 13 kilometres away from Katherine Country Club where most of the observation are taken."
+"Temperature, humidity, cloud, evaporation and rainfall observations are from Katherine Country Club {station 014305}"
+"Wind and pressure observations are from Tindal RAAF {station 014932}"
+
+,"Date","Minimum temperature (°C)","Maximum temperature (°C)","Rainfall (mm)","Evaporation (mm)","Sunshine (hours)","Direction of maximum wind gust ","Speed of maximum wind gust (km/h)","Time of maximum wind gust","9am Temperature (°C)","9am relative humidity (%)","9am cloud amount (oktas)","9am wind direction","9am wind speed (km/h)","9am MSL pressure (hPa)","3pm Temperature (°C)","3pm relative humidity (%)","3pm cloud amount (oktas)","3pm wind direction","3pm wind speed (km/h)","3pm MSL pressure (hPa)"
+,2023-02-1,,,,,,W,39,12:29,,,,WNW,15,1007.3,,,, ,Calm,1002.8
+,2023-02-2,,,,,,NW,43,11:54,,,,NW,22,1005.1,,,,WNW,24,1001.0
+,2023-02-3,,,,,,S,33,13:33,,,,WNW,4,1004.4,,,,S,11,1001.0
+,2023-02-4,,,,,,NNE,39,14:06,,,,SW,6,1006.0,,,,NNE,13,1003.4
+,2023-02-5,,,,,,ESE,26,11:38,,,,SE,11,1007.3,,,,SSW,11,1003.8
+,2023-02-6,,,,,,SSE,35,15:22,,,,ESE,9,1007.9,,,,S,7,1004.3
+,2023-02-7,,,,,,W,20,10:54,,,, ,Calm,1006.6,,,,SSE,13,1003.0
+,2023-02-8,,,,,,W,22,13:44,,,,W,6,1005.8,,,,WSW,17,1001.7
+,2023-02-9,,,,,,SSW,69,15:50,,,,WSW,15,1004.3,,,,WSW,11,998.0
+,2023-02-10,,,,,,N,48,19:11,,,,NW,2,1003.2,,,,S,22,998.8
+,2023-02-11,,,,,,WSW,28,13:10,,,,SSW,2,1003.4,,,,NW,9,1000.2
+,2023-02-12,,,,,,SE,52,16:55,,,, ,Calm,1004.8,,,,SSE,9,1001.3
+,2023-02-13,,,,,,SE,41,08:19,,,,SE,13,1004.7,,,,SE,15,1001.4
+,2023-02-14,,,,,,ESE,33,14:16,,,,SW,7,1004.2,,,,E,19,1001.4
+,2023-02-15,,,,,,SSE,24,15:02,,,,NW,13,1005.1,,,,SSW,11,1002.4
+,2023-02-16,,,,,,WNW,24,08:34,,,,W,15,1007.3,,,,SSW,11,1003.2
+,2023-02-17,,,,,,NW,35,15:56,,,,WNW,15,1007.1,,,,WSW,11,1002.9
+,2023-02-18,,,,,,NW,31,09:20,,,,NW,17,1006.8,,,,W,13,1003.3
+,2023-02-19,,,,,,NNW,28,12:34,,,,NW,9,1008.3,,,, ,Calm,1005.2
+,2023-02-20,,,,,,NNE,52,19:23,,,,NE,6,1009.5,,,,ESE,20,1005.7
+,2023-02-21,,,,,,NE,43,14:24,,,,E,17,1010.3,,,,NNW,9,1006.4
+,2023-02-22,,,,,,N,30,19:32,,,, ,Calm,1009.1,,,,E,9,1004.7
+,2023-02-23,,,,,,NW,26,16:46,,,,ENE,9,1007.1,,,,N,7,1002.8
+,2023-02-24,,,,,,NW,37,15:35,,,,N,13,1006.5,,,,NW,19,1002.4
+,2023-02-25,,,,,,WNW,35,15:05,,,,N,9,1005.6,,,,NW,17,1001.5
+,2023-02-26,,,,,,WNW,57,14:48,,,,NNW,13,1005.1,,,,NNW,30,1003.5
+,2023-02-27,,,,,,NW,43,12:58,,,,N,9,1006.3,,,,NNW,24,1002.8
+,2023-02-28,,,,,,,,,,,,N,17,1005.1,,,,NNW,24,1001.9

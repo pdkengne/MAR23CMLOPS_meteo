@@ -1,0 +1,40 @@
+"Daily Weather Observations for Wollongong, New South Wales for May 2023"
+"Prepared at 13:00 UTC on Wednesday  7 June 2023   IDCJDW2146.202305"
+"Copyright 2003 Commonwealth Bureau of Meteorology"
+"Most observations from Bellambi, which is about 7 km north of the Wollongong city centre."
+"Some cloud observations are from automated equipment; these are somewhat different to those made by a human observer and may not appear every day.  Albion Park is about 25 km southwest of Bellambi (and 18 km from Wollongong), and the pressure there will sometimes be markedly different."
+"Temperature, humidity, wind, cloud and rainfall observations are from Bellambi AWS {station 068228}"
+"Pressure observations are from Albion Park (Shellharbour Airport) {station 068241}"
+
+,"Date","Minimum temperature (°C)","Maximum temperature (°C)","Rainfall (mm)","Evaporation (mm)","Sunshine (hours)","Direction of maximum wind gust ","Speed of maximum wind gust (km/h)","Time of maximum wind gust","9am Temperature (°C)","9am relative humidity (%)","9am cloud amount (oktas)","9am wind direction","9am wind speed (km/h)","9am MSL pressure (hPa)","3pm Temperature (°C)","3pm relative humidity (%)","3pm cloud amount (oktas)","3pm wind direction","3pm wind speed (km/h)","3pm MSL pressure (hPa)"
+,2023-05-1,12.3,20.0,0,,,W,39,19:56,16.6,58,,W,7,1014.5,18.9,54,2,E,6,1012.0
+,2023-05-2,14.0,22.3,0,,,W,48,03:41,17.6,53,,W,22,1015.5,21.0,44,3,W,17,1013.6
+,2023-05-3,15.6,23.4,0,,,WNW,78,21:28,19.9,55,5,N,11,1013.2,22.4,35,,WNW,19,1010.2
+,2023-05-4,12.4,19.3,0,,,WNW,61,00:08,16.2,46,,SW,15,1019.6,18.2,62,4,S,28,1018.7
+,2023-05-5,12.1,22.1,0,,,NE,37,15:59,17.6,57,,NW,22,1019.2,21.5,46,,NNE,15,1014.6
+,2023-05-6,12.4,19.9,0,,,SSW,39,02:13,16.8,49,,WNW,15,1018.4,19.1,48,,SE,7,1015.6
+,2023-05-7,11.1,17.3,0,,,W,69,22:48,12.3,64,8,WSW,20,1015.4,15.8,33,,WSW,24,1012.6
+,2023-05-8,6.5,16.4,11.8,,,WSW,78,03:51,13.4,40,,SW,35,1014.6,15.9,44,8,SSW,39,1016.2
+,2023-05-9,10.8,18.6,0,,,SSW,48,10:07,16.3,48,2,SW,20,1021.5,17.8,51,2,SSW,31,1022.0
+,2023-05-10,11.3,18.6,0,,,SSW,37,10:24,16.4,48,,SW,13,1027.6,18.2,50,,SSE,19,1025.9
+,2023-05-11,11.7,20.1,0,,,NNW,24,21:39,17.3,67,1,WSW,7,1030.3,18.9,64,1,NE,13,1027.5
+,2023-05-12,14.2,21.9,0,,,NNW,35,03:16,18.6,64,,NW,13,1029.5,21.0,67,,NE,22,1027.1
+,2023-05-13,14.7,20.2,0,,,SE,30,14:32,18.3,70,,SSW,17,1032.5,18.9,68,4,SE,24,1030.1
+,2023-05-14,13.8,19.5,6.6,,,ESE,24,16:05,15.1,90,8,SW,15,1031.3,18.3,75,5,SE,15,1027.7
+,2023-05-15,12.0,20.1,0,,,NE,24,15:28,14.5,89,2,WNW,7,1026.6,19.1,71,4,NE,9,1022.9
+,2023-05-16,12.0,20.8,0,,,SSW,56,21:31,18.6,60,, ,Calm,1020.0,20.2,53,,S,28,1017.7
+,2023-05-17,12.1,16.3,13.2,,,SSW,69,14:37,14.4,66,4,SW,33,1024.8,14.8,71,8,SSW,39,1023.3
+,2023-05-18,11.2,16.7,1.0,,,SSW,43,16:03,14.2,65,4,SW,20,1021.9,16.3,55,5,S,26,1018.3
+,2023-05-19,10.7,16.9,0,,,SW,33,08:19,13.5,49,,SW,22,1018.9,16.6,49,,E,7,1014.9
+,2023-05-20,9.3,18.3,0,,,WNW,57,22:11,13.9,52,,SW,15,1016.0,17.4,40,1,W,22,1013.2
+,2023-05-21,13.1,18.2,0,,,WNW,70,07:58,15.3,47,4,W,31,1011.9,17.4,46,,W,33,1013.7
+,2023-05-22,9.4,18.2,0,,,WSW,24,01:35,15.3,47,,W,7,1026.2,16.9,53,,ESE,13,1024.6
+,2023-05-23,10.4,18.9,0,,,W,19,04:57,15.5,48,,NW,9,1028.3,17.4,67,,SE,11,1026.1
+,2023-05-24,11.5,21.0,0,,,WNW,24,05:56,15.6,48,,NW,13,1026.5,19.8,49,,NNE,7,1023.3
+,2023-05-25,13.4,20.3,0,,,W,31,04:28,18.0,36,8,N,19,1019.7,18.2,49,7,NNE,13,1014.4
+,2023-05-26,13.5,15.5,0,,,SSW,63,08:35,14.9,73,8,SSW,35,1013.2,13.9,55,8,SW,26,1015.0
+,2023-05-27,8.6,18.1,0,,,WNW,35,22:08,13.4,51,,WNW,11,1018.2,16.0,46,,WSW,19,1015.5
+,2023-05-28,10.3,17.8,0,,,WSW,37,10:14,13.0,50,,W,20,1015.3,16.3,44,,W,19,1012.7
+,2023-05-29,12.5,20.2,0,,,W,57,12:15,15.7,57,1,W,7,1015.6,19.0,37,,WSW,20,1015.0
+,2023-05-30,12.6,21.0,0,,,W,46,17:29,15.7,53,,W,20,1022.6,19.7,47,,WNW,19,1019.4
+,2023-05-31,15.7,21.7,0,,,W,50,08:45,18.5,52,1,W,24,1019.5,19.9,51,3,WSW,11,1015.7

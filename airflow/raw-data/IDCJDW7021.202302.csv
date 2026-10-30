@@ -1,0 +1,37 @@
+"Daily Weather Observations for Hobart, Tasmania for February 2023"
+"Prepared at 13:03 UTC on Wednesday 19 July 2023   IDCJDW7021.202302"
+"Copyright 2003 Commonwealth Bureau of Meteorology"
+"Most observations from Battery Point, but some from Hobart Airport West."
+"Hobart Airport West {station 94008} was originally called Hobart Airport. The name was changed with the opening of the new site Hobart Airport {station 94250}."
+"Temperature, humidity, wind, pressure and rainfall observations are from Hobart (Ellerslie Road) {station 094029}"
+"Cloud, evaporation and sunshine observations are from Hobart Airport West {station 094008}"
+
+,"Date","Minimum temperature (°C)","Maximum temperature (°C)","Rainfall (mm)","Evaporation (mm)","Sunshine (hours)","Direction of maximum wind gust ","Speed of maximum wind gust (km/h)","Time of maximum wind gust","9am Temperature (°C)","9am relative humidity (%)","9am cloud amount (oktas)","9am wind direction","9am wind speed (km/h)","9am MSL pressure (hPa)","3pm Temperature (°C)","3pm relative humidity (%)","3pm cloud amount (oktas)","3pm wind direction","3pm wind speed (km/h)","3pm MSL pressure (hPa)"
+,2023-02-1,14.7,20.0,0,,,SW,57,10:27,19.6,52,,NNW,24,998.5,19.0,36,,WSW,31,1001.1
+,2023-02-2,10.6,21.8,0.8,,,NNW,57,11:44,12.9,52,,NNW,17,989.9,17.9,52,,NNE,28,981.6
+,2023-02-3,7.6,20.8,10.4,,,NW,48,21:34,13.1,66,,NNW,13,986.5,18.8,37,,SE,7,987.4
+,2023-02-4,11.7,19.6,6.8,,,NW,54,03:19,12.8,86,,NNW,9,994.8,15.7,83,,S,22,996.6
+,2023-02-5,12.8,24.3,1.0,,,SSW,52,00:19,17.7,47,,NE,11,1010.4,20.5,57,,E,24,1010.9
+,2023-02-6,12.8,23.9,0,,,NNW,54,10:20,19.1,52,,NNW,20,1013.4,21.6,45,,SW,17,1012.8
+,2023-02-7,13.1,23.6,0,,,SSW,44,11:27,17.5,48,,NNE,11,1016.7,21.8,32,,SSW,26,1015.6
+,2023-02-8,11.6,16.1,0,,,SSW,41,00:26,14.4,56,,SW,15,1020.6,15.0,64,,SE,19,1020.1
+,2023-02-9,13.2,23.4,0,,,ESE,30,13:32,15.6,65,,N,13,1017.3,21.1,58,,ESE,19,1013.5
+,2023-02-10,14.7,20.7,4.2,,,SSE,35,16:46,15.5,94,,NNW,9,1010.9,19.7,68,,ESE,19,1007.8
+,2023-02-11,15.5,22.3,0.6,,,ESE,28,13:43,16.9,85,,WSW,6,1006.8,21.6,61,,SE,17,1003.3
+,2023-02-12,15.7,22.2,0,,,SSW,61,10:52,18.6,79,,ESE,6,1001.4,20.1,39,,SSW,24,1005.6
+,2023-02-13,10.4,21.6,0,,,NNW,48,09:59,16.4,51,,NW,15,1011.7,19.3,45,,WNW,11,1010.2
+,2023-02-14,9.1,23.2,0.2,,,W,43,03:33,15.1,58,,N,15,1015.1,21.5,42,,ENE,11,1013.8
+,2023-02-15,13.1,25.8,0,,,NNW,33,07:42,17.3,61,,NNW,26,1014.1,23.7,49,,ESE,19,1012.4
+,2023-02-16,14.3,22.9,0,,,NNW,57,11:24,18.6,69,,NNW,13,1013.5,22.4,52,,NNW,19,1013.3
+,2023-02-17,16.6,36.7,1.4,,,NNW,65,13:31,19.4,69,,NNW,30,1008.6,35.5,21,,NNW,39,1001.3
+,2023-02-18,13.8,23.6,0,,,SSW,44,14:18,17.8,55,,SE,9,1009.8,19.7,60,,WSW,6,1009.9
+,2023-02-19,14.8,31.2,0.2,,,NW,57,08:24,18.8,52,,NW,33,1013.0,30.0,22,,NNW,30,1010.0
+,2023-02-20,15.0,16.8,0,,,N,39,23:02,15.0,82,,SE,17,1017.2,14.7,90,,SE,15,1019.3
+,2023-02-21,10.6,17.3,4.0,,,SSW,50,09:44,14.3,51,,SW,28,1028.8,17.3,47,,SW,13,1032.1
+,2023-02-22,8.1,21.6,0.8,,,ENE,39,15:35,13.1,59,,N,9,1034.1,19.2,45,,ESE,22,1029.7
+,2023-02-23,13.1,27.4,0,,,NNW,43,09:57,15.8,56,,N,19,1024.4,24.1,34,,NNW,26,1021.3
+,2023-02-24,15.7,31.6,0,,,NNW,50,02:27,19.9,57,,N,24,1017.5,31.3,25,,NNE,11,1014.1
+,2023-02-25,19.2,33.8,0,,,NNW,52,05:13,23.2,44,,NNW,31,1008.7,28.3,34,,SSW,17,1006.3
+,2023-02-26,16.2,21.4,15.6,,,SSE,50,13:27,17.9,85,,S,13,1008.8,16.8,93,,SSE,28,1009.6
+,2023-02-27,12.9,17.6,2.4,,,SE,41,12:03,14.7,71,,S,20,1015.6,16.4,58,,ESE,24,1015.9
+,2023-02-28,13.4,19.4,0.2,,,SE,28,16:11,15.1,66,,NNW,13,1013.3,19.0,55,,ENE,7,1009.1

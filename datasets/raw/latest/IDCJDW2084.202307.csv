@@ -1,0 +1,26 @@
+"Daily Weather Observations for Moree, New South Wales for July 2023"
+"Prepared at 05:36 UTC on Wednesday 19 July 2023   IDCJDW2084.202307"
+"Copyright 2003 Commonwealth Bureau of Meteorology"
+"Some cloud observations are from automated equipment; these are somewhat different to those made by a human observer and may not appear every day."
+"Observations were drawn from Moree Aero {station 053115}"
+
+,"Date","Minimum temperature (°C)","Maximum temperature (°C)","Rainfall (mm)","Evaporation (mm)","Sunshine (hours)","Direction of maximum wind gust ","Speed of maximum wind gust (km/h)","Time of maximum wind gust","9am Temperature (°C)","9am relative humidity (%)","9am cloud amount (oktas)","9am wind direction","9am wind speed (km/h)","9am MSL pressure (hPa)","3pm Temperature (°C)","3pm relative humidity (%)","3pm cloud amount (oktas)","3pm wind direction","3pm wind speed (km/h)","3pm MSL pressure (hPa)"
+,2023-07-1,2.0,15.7,0,,,SSW,33,11:37,7.4,85,5,WSW,9,1025.5,15.5,52,7,WSW,19,1022.8
+,2023-07-2,1.1,18.7,0,,,ESE,26,10:26,7.9,86,,E,11,1028.4,17.7,40,6,N,7,1026.5
+,2023-07-3,7.9,17.5,0,,,E,28,10:06,13.2,61,8,E,19,1028.9,17.2,53,7,ESE,13,1024.2
+,2023-07-4,12.1,18.2,7.4,,,ENE,52,05:37,14.0,88,8,ENE,22,1017.8,17.7,84,8,N,19,1014.4
+,2023-07-5,11.1,16.7,4.8,,,W,31,13:19,12.7,89,8,W,11,1018.9,15.1,65,8,W,11,1016.3
+,2023-07-6,4.3,15.8,0,,,W,26,13:10,9.5,95,8, ,Calm,1018.8,14.4,62,8,W,15,1015.0
+,2023-07-7,7.2,18.0,0.4,,,WSW,37,13:35,11.6,74,,W,20,1018.4,15.3,46,,W,26,1017.5
+,2023-07-8,1.3,17.3,0,,,WNW,37,14:44,8.4,84,,NNE,9,1023.8,16.9,38,,W,22,1020.6
+,2023-07-9,2.2,18.7,0,,,SSW,37,13:11,10.2,67,,SSW,13,1024.3,18.4,36,,SW,22,1021.5
+,2023-07-10,1.7,18.1,0,,,S,33,11:14,9.5,73,,NE,2,1025.8,17.2,39,,SSW,17,1023.3
+,2023-07-11,0.1,17.3,0,,,SW,30,13:12,8.8,76,, ,Calm,1027.5,16.7,39,,WSW,19,1025.0
+,2023-07-12,1.8,21.9,0,,,NE,37,11:46,11.3,67,,E,17,1029.7,20.8,31,,NNE,13,1026.4
+,2023-07-13,5.3,22.4,0,,,E,26,03:00,12.8,63,,ENE,15,1029.9,21.1,35,,WNW,9,1026.8
+,2023-07-14,5.6,22.6,0,,,ENE,30,04:07,13.5,68,,NE,19,1028.8,21.8,34,,NNE,13,1024.7
+,2023-07-15,5.4,23.4,0,,,N,35,09:59,13.5,75,,NE,17,1026.4,21.5,35,7,NNW,11,1023.3
+,2023-07-16,12.1,24.5,0,,,N,30,12:04,15.3,62,8,NE,17,1027.1,22.7,29,1,NE,7,1024.4
+,2023-07-17,8.7,23.9,0,,,SSE,35,17:30,16.5,50,1,E,20,1028.3,22.7,27,,SE,15,1024.8
+,2023-07-18,10.5,22.0,0,,,ENE,24,07:31,14.0,70,8,E,13,1025.8,20.3,46,5,WSW,13,1020.8
+,2023-07-19,5.1,,0,,,,,,12.6,77,,SSE,13,1023.5,19.0,21,,SW,24,1020.6

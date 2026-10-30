@@ -1,0 +1,26 @@
+"Daily Weather Observations for White Cliffs, New South Wales for July 2023"
+"Prepared at 05:36 UTC on Wednesday 19 July 2023   IDCJDW2143.202307"
+"Copyright 2003 Commonwealth Bureau of Meteorology"
+"Observations from White Cliffs Airport."
+"Observations were drawn from White Cliffs AWS {station 046129}"
+
+,"Date","Minimum temperature (°C)","Maximum temperature (°C)","Rainfall (mm)","Evaporation (mm)","Sunshine (hours)","Direction of maximum wind gust ","Speed of maximum wind gust (km/h)","Time of maximum wind gust","9am Temperature (°C)","9am relative humidity (%)","9am cloud amount (oktas)","9am wind direction","9am wind speed (km/h)","9am MSL pressure (hPa)","3pm Temperature (°C)","3pm relative humidity (%)","3pm cloud amount (oktas)","3pm wind direction","3pm wind speed (km/h)","3pm MSL pressure (hPa)"
+,2023-07-1,3.9,13.6,0,,,SSE,26,23:56,6.9,100,,W,2,1027.8,12.9,64,,SW,13,1026.6
+,2023-07-2,6.9,14.2,0,,,SE,35,11:31,8.7,77,,S,9,1032.6,13.7,56,,SE,22,1027.3
+,2023-07-3,7.8,12.6,0,,,ESE,26,14:43,8.3,90,,ESE,13,1025.5,11.5,82,,ESE,19,1021.4
+,2023-07-4,8.3,14.3,12.6,,,W,33,17:02,12.6,100,,NW,13,1014.6,14.1,78,,W,15,1012.5
+,2023-07-5,10.2,14.1,0.4,,,NW,24,13:28,10.7,93,,N,13,1017.3,14.0,64,,WNW,15,1015.4
+,2023-07-6,7.7,17.2,0,,,NW,50,15:59,10.2,83,,N,22,1014.5,16.3,57,,N,33,1009.3
+,2023-07-7,5.7,16.1,3.8,,,WNW,31,03:00,9.7,81,,WSW,17,1019.6,15.7,47,,WNW,22,1018.6
+,2023-07-8,5.3,19.0,0,,,WSW,41,13:33,9.0,71,,NNW,24,1020.7,18.6,44,,WNW,28,1019.0
+,2023-07-9,5.3,17.5,0,,,WSW,30,14:57,10.5,73,,SSW,11,1025.6,16.9,47,,WSW,20,1023.2
+,2023-07-10,8.1,16.6,0,,,WSW,19,13:20,11.1,81,, ,Calm,1027.5,16.5,47,,WSW,9,1025.1
+,2023-07-11,8.1,16.1,0,,,SE,24,09:08,12.1,55,,SE,13,1029.8,15.4,44,,E,9,1027.3
+,2023-07-12,4.9,17.1,0,,,SE,20,12:46,10.3,72,,ESE,4,1030.5,16.6,47,,SE,9,1026.9
+,2023-07-13,4.3,18.7,0,,,NNE,28,11:05,9.3,82,,ESE,9,1027.9,18.2,37,,N,13,1025.1
+,2023-07-14,6.5,23.0,0,,,NW,44,14:20,12.6,57,,NNE,9,1024.8,22.6,27,,NNW,26,1020.5
+,2023-07-15,9.4,23.0,0,,,S,35,23:43,11.6,68,,W,13,1021.3,21.9,39,,NNW,13,1019.2
+,2023-07-16,8.1,18.3,0,,,SSW,43,00:05,9.6,78,,S,26,1028.5,17.7,47,,SSE,24,1026.4
+,2023-07-17,5.0,20.7,0,,,SE,26,16:10,9.2,69,,SSE,7,1028.7,20.3,43,,SE,11,1025.1
+,2023-07-18,9.1,22.3,0,,,SW,33,15:24,12.8,73,,S,17,1025.2,21.4,36,,SW,20,1022.3
+,2023-07-19,6.0,,0,,,,,,9.0,72,,E,11,1026.7,15.9,35,,ESE,9,1022.5

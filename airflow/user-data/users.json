@@ -1,0 +1,23 @@
+{
+    "admin": {
+        "username": "admin",
+        "hashed_password": "$2b$12$rtLdMk3jeZnex83ks7jvzemAkLA8YKpe.RTI926qx/neGePzruFaa",
+        "surname": "admin",
+        "name": "master",
+        "email": "admin-master@domain.com"
+    },
+    "pascal": {
+        "username": "pascal",
+        "hashed_password": "$2b$12$YW9qqFr2FIEAJ4nPANSho.AgXi3t5iWtlA1p3fkZHwjpMcL5PwQdS",
+        "surname": null,
+        "name": null,
+        "email": null
+    },
+    "alain": {
+        "username": "alain",
+        "hashed_password": "$2b$12$i7KrZhgjSAnMnMtt6yJM2uoWOTEdapTuMyHHaBGDpyi.qevi3atw6",
+        "surname": null,
+        "name": null,
+        "email": null
+    }
+}

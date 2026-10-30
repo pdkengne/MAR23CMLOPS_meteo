@@ -1,0 +1,26 @@
+"Daily Weather Observations for Coffs Harbour, New South Wales for July 2023"
+"Prepared at 05:36 UTC on Wednesday 19 July 2023   IDCJDW2030.202307"
+"Copyright 2003 Commonwealth Bureau of Meteorology"
+"Some cloud observations are from automated equipment; these are somewhat different to those made by a human observer and may not appear every day. Prior to February 2015, observations were recorded against Coffs Harbour MO (site number 059040)."
+"Observations were drawn from Coffs Harbour Airport {station 059151}"
+
+,"Date","Minimum temperature (°C)","Maximum temperature (°C)","Rainfall (mm)","Evaporation (mm)","Sunshine (hours)","Direction of maximum wind gust ","Speed of maximum wind gust (km/h)","Time of maximum wind gust","9am Temperature (°C)","9am relative humidity (%)","9am cloud amount (oktas)","9am wind direction","9am wind speed (km/h)","9am MSL pressure (hPa)","3pm Temperature (°C)","3pm relative humidity (%)","3pm cloud amount (oktas)","3pm wind direction","3pm wind speed (km/h)","3pm MSL pressure (hPa)"
+,2023-07-1,2.4,18.5,0,,,SW,26,11:42,10.0,88,,SW,6,1020.7,17.1,52,,SE,9,1019.1
+,2023-07-2,4.1,19.1,0,,,S,39,15:36,15.6,59,,SW,20,1029.2,17.5,67,8,S,28,1027.8
+,2023-07-3,12.7,17.8,0.2,,,SW,31,11:28,14.9,83,8,W,13,1030.0,15.7,87,8,SSW,9,1026.8
+,2023-07-4,13.1,18.3,3.2,,,NNW,30,13:41,14.7,95,8,WNW,7,1022.5,16.5,92,8,NNW,9,1016.9
+,2023-07-5,11.8,23.5,1.6,,,NW,26,02:27,17.4,84,5,WNW,6,1014.8,21.5,66,,ESE,11,1012.2
+,2023-07-6,4.9,19.3,0,,,WNW,26,22:10,14.7,65,,ENE,4,1015.7,18.2,51,,E,13,1011.7
+,2023-07-7,5.0,21.3,0,,,SW,35,13:15,16.5,50,4,NNW,17,1014.5,20.5,31,,WSW,20,1011.6
+,2023-07-8,2.2,21.3,0,,,NNE,35,13:07,12.8,61,,WNW,6,1019.4,21.2,31,,NNE,17,1014.1
+,2023-07-9,3.5,21.2,0,,,W,24,10:44,15.8,57,,NW,9,1019.7,19.7,42,,ENE,9,1016.8
+,2023-07-10,1.7,19.4,0,,,ENE,24,14:57,12.7,80,,ENE,4,1023.8,18.7,60,,ENE,17,1021.0
+,2023-07-11,3.8,18.7,0,,,,,,13.4,91,,NE,6,1025.2,18.4,68,,S,17,1023.9
+,2023-07-12,9.3,20.0,,,,WSW,26,00:36,15.3,67,,WSW,17,1030.3,18.3,60,,SE,13,1027.8
+,2023-07-13,5.8,20.2,0,,,NNE,28,15:16,14.1,84,,SW,6,1030.3,19.4,61,,NE,20,1026.9
+,2023-07-14,8.6,22.4,0,,,NNE,39,15:53,16.5,71,,NNW,15,1028.2,21.9,41,,N,20,1023.7
+,2023-07-15,10.1,23.2,0,,,NE,31,13:39,17.1,53,,WNW,19,1025.3,21.3,58,,NE,20,1021.8
+,2023-07-16,5.6,22.0,0,,,SW,26,22:14,16.7,74,,N,2,1026.3,20.4,58,,S,17,1025.4
+,2023-07-17,12.8,20.8,9.4,,,SW,31,10:15,16.1,83,8,SW,15,1029.3,18.7,74,6,S,20,1026.8
+,2023-07-18,11.0,19.6,5.6,,,ENE,22,14:22,15.4,94,8,WNW,7,1025.7,18.0,77,6,NE,15,1020.6
+,2023-07-19,7.1,,1.2,,,,,,16.8,67,,W,19,1020.9,17.7,42,,S,26,1020.2

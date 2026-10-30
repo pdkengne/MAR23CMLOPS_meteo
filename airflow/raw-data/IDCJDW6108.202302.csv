@@ -1,0 +1,37 @@
+"Daily Weather Observations for Pearce RAAF Base, Western Australia for February 2023"
+"Prepared at 13:02 UTC on Wednesday 19 July 2023   IDCJDW6108.202302"
+"Copyright 2003 Commonwealth Bureau of Meteorology"
+"Most observations from Pearce RAAF Base, but some from Perth Airport."
+"The mean sea level pressure at Perth Airport is provided for convenience. On most occasions it will be within 1 hPa of that at Pearce.Some cloud observations are from automated equipment; these are somewhat different to those made by a human observer and may not appear every day."
+"Temperature, humidity, wind, pressure, cloud and rainfall observations are from Pearce RAAF {station 009053}"
+"Sunshine observations are from Perth Airport {station 009021}"
+
+,"Date","Minimum temperature (°C)","Maximum temperature (°C)","Rainfall (mm)","Evaporation (mm)","Sunshine (hours)","Direction of maximum wind gust ","Speed of maximum wind gust (km/h)","Time of maximum wind gust","9am Temperature (°C)","9am relative humidity (%)","9am cloud amount (oktas)","9am wind direction","9am wind speed (km/h)","9am MSL pressure (hPa)","3pm Temperature (°C)","3pm relative humidity (%)","3pm cloud amount (oktas)","3pm wind direction","3pm wind speed (km/h)","3pm MSL pressure (hPa)"
+,2023-02-1,18.5,34.0,0,,12.7,E,65,21:27,22.3,49,,ESE,31,1014.1,32.7,26,,SE,30,1010.9
+,2023-02-2,15.9,34.9,0,,12.8,,,,23.1,40,,E,26,1014.9,34.0,11,,ESE,35,1010.9
+,2023-02-3,18.5,36.1,,,12.3,E,70,00:40,24.0,47,,E,22,1013.7,34.8,17,,NE,24,1008.1
+,2023-02-4,23.8,39.9,0,,10.0,ENE,54,01:17,26.9,26,8,ENE,31,1007.2,38.4,13,,SE,17,1004.4
+,2023-02-5,21.3,39.3,0,,12.5,ENE,43,03:05,31.4,28,,N,19,1006.4,33.4,36,,WSW,24,1004.2
+,2023-02-6,20.1,28.5,0,,9.2,W,46,13:28,21.9,68,8,S,11,1009.1,27.7,40,,WSW,26,1008.5
+,2023-02-7,15.3,31.1,0,,12.3,SSW,41,13:56,22.9,63,8,SSW,11,1011.7,29.3,41,,SW,28,1009.4
+,2023-02-8,16.5,34.2,0,,12.5,E,39,07:32,24.7,50,,ENE,17,1012.1,32.5,32,,SW,24,1008.9
+,2023-02-9,15.8,35.7,0,,11.9,E,37,06:11,24.7,46,,E,13,1011.9,35.5,26,,SSW,20,1007.5
+,2023-02-10,13.8,32.6,0,,12.6,SSW,52,15:45,26.0,37,,NE,6,1008.1,29.6,29,,SSW,35,1007.4
+,2023-02-11,13.5,31.3,0,,12.3,SW,43,14:42,21.5,49,,ENE,22,1014.0,28.5,33,,SW,33,1010.7
+,2023-02-12,14.5,35.4,0,,12.4,E,52,03:41,23.4,47,,E,15,1014.4,34.3,18,,SE,13,1010.3
+,2023-02-13,18.3,39.5,0,,12.4,E,56,00:40,26.0,40,,E,26,1012.7,38.3,15,,WNW,20,1006.4
+,2023-02-14,14.2,28.8,0,,12.3,WSW,46,15:18,23.6,60,,S,19,1007.3,26.7,39,,WSW,30,1006.7
+,2023-02-15,14.7,28.0,0,,7.2,WSW,39,16:37,21.9,56,,E,7,1010.3,26.5,40,,SSW,19,1009.0
+,2023-02-16,10.7,28.3,0,,11.9,SW,43,14:07,20.3,58,,SSW,7,1013.6,26.9,36,,SW,26,1012.2
+,2023-02-17,11.7,32.0,0,,12.0,SW,44,14:48,23.9,50,,ESE,19,1016.1,29.6,40,,SW,31,1013.4
+,2023-02-18,15.0,38.2,0,,12.4,ESE,44,03:53,26.9,35,,SE,20,1014.0,36.1,26,,SW,31,1008.8
+,2023-02-19,17.6,38.5,0,,12.5,ESE,57,22:52,27.2,38,,SE,24,1011.1,35.0,30,,SW,26,1007.7
+,2023-02-20,19.7,39.0,0,,12.3,NE,63,01:32,26.7,47,,E,20,1008.9,37.9,22,,ESE,15,1005.0
+,2023-02-21,19.9,35.8,0,,12.3,SW,39,13:20,24.2,73,8,NNW,15,1008.1,33.6,44,,SW,24,1007.5
+,2023-02-22,19.1,33.0,0,,12.2,SW,46,13:25,24.2,67,,SSW,6,1011.7,29.9,42,,WSW,28,1008.9
+,2023-02-23,15.7,28.7,0,,11.7,ESE,57,23:23,21.6,55,,S,35,1011.6,27.1,35,,SSW,26,1009.5
+,2023-02-24,13.9,30.4,0,,12.0,E,54,00:33,19.0,39,,E,28,1016.8,29.3,14,,ESE,17,1013.6
+,2023-02-25,17.0,33.6,0,,12.1,ENE,41,07:49,23.1,33,,E,20,1016.6,32.6,16,,SE,17,1012.3
+,2023-02-26,20.4,36.1,0,,12.0,E,50,03:55,26.2,33,,NE,17,1012.8,35.1,15,,E,11,1008.8
+,2023-02-27,21.7,38.2,0,,7.8,E,54,23:26,29.6,25,,E,9,1010.8,36.5,13,,SSE,20,1008.4
+,2023-02-28,21.0,37.6,0,,,ESE,65,21:23,26.5,42,,E,26,1014.0,36.4,17,,E,24,1011.0

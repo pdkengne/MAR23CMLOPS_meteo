@@ -1,0 +1,34 @@
+"Daily Weather Observations for Portland, Victoria for July 2023"
+"Prepared at 05:37 UTC on Tuesday 25 July 2023   IDCJDW3068.202307"
+"Copyright 2003 Commonwealth Bureau of Meteorology"
+"Most observations from Portland, evaporation and sunshine measured at Mount Gambier."
+"Some cloud observations are from automated equipment; these are somewhat different to those made by a human observer and may not appear every day."
+"Temperature, humidity, wind, pressure, cloud and rainfall observations are from Portland Airport {station 090171}"
+"Evaporation and sunshine observations are from Mount Gambier Aero {station 026021}"
+
+,"Date","Minimum temperature (°C)","Maximum temperature (°C)","Rainfall (mm)","Evaporation (mm)","Sunshine (hours)","Direction of maximum wind gust ","Speed of maximum wind gust (km/h)","Time of maximum wind gust","9am Temperature (°C)","9am relative humidity (%)","9am cloud amount (oktas)","9am wind direction","9am wind speed (km/h)","9am MSL pressure (hPa)","3pm Temperature (°C)","3pm relative humidity (%)","3pm cloud amount (oktas)","3pm wind direction","3pm wind speed (km/h)","3pm MSL pressure (hPa)"
+,2023-07-1,9.3,13.0,4.2,,,SW,41,01:36,10.6,92,8,SSW,11,1026.0,11.2,91,7,SSW,13,1028.2
+,2023-07-2,8.4,12.3,1.4,,,SE,19,11:38,10.1,99,8, ,Calm,1035.1,12.0,77,8,SE,9,1033.5
+,2023-07-3,6.0,11.0,0.2,,,N,17,11:11,6.3,99,5,NNE,6,1029.2,10.6,85,7,ENE,7,1024.5
+,2023-07-4,6.2,10.7,0.6,,,NNW,17,23:49,8.4,100,8,NNE,6,1016.8,10.4,98,8,NNE,9,1011.6
+,2023-07-5,6.7,15.1,0.8,,,N,35,10:22,8.5,95,2,N,17,1010.2,14.8,62,,N,17,1007.8
+,2023-07-6,8.3,12.9,0,,,WNW,44,23:19,10.0,80,8,NNE,17,1005.2,10.8,83,8,N,24,1001.5
+,2023-07-7,7.9,13.6,1.6,,,NNW,80,22:55,8.8,91,8,NNW,17,1008.3,11.8,92,8,NNW,22,1005.9
+,2023-07-8,8.7,13.0,18.6,,,W,81,12:39,11.4,67,8,W,43,1002.5,11.6,65,8,W,48,1006.1
+,2023-07-9,9.4,14.1,6.6,,,W,72,02:57,12.9,80,,W,35,1015.3,12.5,78,8,W,33,1016.6
+,2023-07-10,10.7,14.9,1.2,,,NW,54,11:09,11.6,83,8,NNW,20,1019.4,14.3,70,5,WNW,35,1017.3
+,2023-07-11,10.0,16.0,2.8,,,W,52,00:28,10.4,95,3,N,13,1024.7,15.4,75,1,WNW,24,1024.8
+,2023-07-12,8.6,15.5,0,,,NNW,43,09:45,10.2,78,,NNW,19,1025.8,14.8,64,6,NW,22,1024.1
+,2023-07-13,10.0,14.8,0,,,NNW,50,14:54,10.6,69,,NNW,22,1022.1,14.0,59,1,NNW,31,1017.8
+,2023-07-14,9.7,13.9,0,,,NNW,52,01:44,10.3,67,1,NNW,30,1014.9,12.3,76,8,NNW,20,1012.8
+,2023-07-15,8.5,12.3,18.0,,,WSW,35,03:18,9.3,98,8,SW,7,1017.9,11.7,54,1,WSW,24,1021.0
+,2023-07-16,9.2,13.5,0.2,,,WNW,39,11:35,10.6,82,8,NW,13,1028.4,12.9,71,8,WNW,24,1027.9
+,2023-07-17,7.6,13.1,0,,,NW,43,11:25,9.5,76,7,NNW,19,1027.6,12.6,64,1,NNW,20,1024.4
+,2023-07-18,6.2,13.3,7.4,,,WNW,59,07:13,11.3,71,6,WSW,39,1019.2,11.9,65,3,SW,28,1023.0
+,2023-07-19,2.4,12.5,0,,,NNE,46,23:55,5.5,90,3,N,7,1025.7,12.2,54,1,NNE,17,1020.6
+,2023-07-20,5.1,12.8,0.6,,,N,61,02:29,7.8,83,8,N,28,1007.5,12.0,80,8,W,35,1008.3
+,2023-07-21,6.2,13.2,4.6,,,W,44,06:17,9.6,86,8,WNW,11,1021.5,12.9,72,3,WNW,22,1021.9
+,2023-07-22,7.0,14.3,0.8,,,NNW,41,10:50,9.3,99,8,NNW,19,1021.8,12.1,91,8,NW,17,1020.2
+,2023-07-23,8.1,13.0,8.4,,,SSW,31,00:14,10.1,61,6,SSW,13,1028.7,11.4,75,8,WSW,7,1028.9
+,2023-07-24,9.3,13.5,3.2,,,WSW,33,11:46,11.3,100,8,SW,11,1032.6,12.2,85,8,WSW,19,1032.6
+,2023-07-25,10.0,,0.4,,,,,,10.4,89,8,N,7,1037.2,12.2,72,8,NNW,11,1035.6

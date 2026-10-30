@@ -1,0 +1,39 @@
+"Daily Weather Observations for Katherine, Northern Territory for June 2023"
+"Prepared at 13:03 UTC on Friday 21 July 2023   IDCJDW8024.202306"
+"Copyright 2003 Commonwealth Bureau of Meteorology"
+"Most observations from Katherine Country Club, but some from Tindal RAAF base."
+"Observations were previously taken at the Katherine Aviation Museum; if you require these please contact us. Tindal RAAF base is 13 kilometres away from Katherine Country Club where most of the observation are taken."
+"Temperature, humidity, cloud, evaporation and rainfall observations are from Katherine Country Club {station 014305}"
+"Wind and pressure observations are from Tindal RAAF {station 014932}"
+
+,"Date","Minimum temperature (°C)","Maximum temperature (°C)","Rainfall (mm)","Evaporation (mm)","Sunshine (hours)","Direction of maximum wind gust ","Speed of maximum wind gust (km/h)","Time of maximum wind gust","9am Temperature (°C)","9am relative humidity (%)","9am cloud amount (oktas)","9am wind direction","9am wind speed (km/h)","9am MSL pressure (hPa)","3pm Temperature (°C)","3pm relative humidity (%)","3pm cloud amount (oktas)","3pm wind direction","3pm wind speed (km/h)","3pm MSL pressure (hPa)"
+,2023-06-1,,,,,,ENE,33,11:12,,,,SE,11,1015.7,,,,ESE,9,1011.5
+,2023-06-2,,,,,,SE,35,12:03,,,,ENE,13,1015.8,,,,ESE,13,1011.9
+,2023-06-3,,,,,,SE,24,11:50,,,,SSE,4,1016.4,,,,ESE,13,1012.0
+,2023-06-4,,,,,,E,24,13:07,,,,ENE,2,1015.5,,,,N,11,1010.7
+,2023-06-5,,,,,,SE,26,12:30,,,, ,Calm,1014.2,,,,ESE,13,1010.6
+,2023-06-6,,,,,,ENE,30,12:41,,,,E,6,1015.0,,,,E,13,1011.1
+,2023-06-7,,,,,,ESE,35,12:08,,,,ESE,9,1015.2,,,,ENE,20,1011.6
+,2023-06-8,,,,,,ESE,31,13:40,,,,SE,11,1015.8,,,,E,20,1011.4
+,2023-06-9,,,,,,SE,35,11:21,,,,SE,15,1014.8,,,,E,19,1010.8
+,2023-06-10,,,,,,ESE,35,15:59,,,,ESE,17,1016.0,,,,E,17,1011.6
+,2023-06-11,,,,,,E,33,11:24,,,,ESE,9,1015.9,,,,ESE,17,1011.7
+,2023-06-12,,,,,,ESE,30,13:09,,,,SSE,9,1016.6,,,,E,19,1012.2
+,2023-06-13,,,,,,SE,41,15:08,,,,SE,9,1015.6,,,,E,26,1011.6
+,2023-06-14,,,,,,SE,33,13:40,,,,SE,11,1015.9,,,,SE,19,1012.2
+,2023-06-15,,,,,,ESE,43,14:36,,,,SE,13,1016.5,,,,ESE,17,1012.5
+,2023-06-16,,,,,,E,41,09:44,,,,ESE,15,1016.8,,,,E,20,1012.4
+,2023-06-17,,,,,,SSE,41,14:41,,,,SE,9,1017.3,,,,SE,19,1013.3
+,2023-06-18,,,,,,E,33,11:52,,,,SE,13,1017.0,,,,SE,15,1012.4
+,2023-06-19,,,,,,SE,31,12:04,,,,SE,15,1016.2,,,,E,17,1011.7
+,2023-06-20,,,,,,E,33,10:46,,,,ESE,13,1016.6,,,,ESE,15,1012.0
+,2023-06-21,,,,,,ENE,22,00:06,,,,SE,7,1016.6,,,,SSE,9,1011.8
+,2023-06-22,,,,,,NNE,24,11:40,,,,SE,4,1015.0,,,,ENE,7,1010.6
+,2023-06-23,,,,,,SE,28,12:58,,,, ,Calm,1014.2,,,,S,13,1009.9
+,2023-06-24,,,,,,ENE,30,12:15,,,,N,7,1014.6,,,,ESE,19,1009.8
+,2023-06-25,,,,,,ENE,37,13:56,,,,E,9,1013.6,,,,E,13,1009.3
+,2023-06-26,,,,,,ENE,52,15:07,,,,ENE,22,1014.0,,,,ENE,17,1010.1
+,2023-06-27,,,,,,NE,28,12:41,,,,NE,15,1015.2,,,,NNE,7,1011.0
+,2023-06-28,,,,,,SE,37,15:51,,,,SE,19,1017.0,,,,ESE,15,1012.9
+,2023-06-29,,,,,,E,41,13:08,,,,SE,15,1016.4,,,,ESE,20,1012.1
+,2023-06-30,,,,,,SSE,46,21:14,,,,SE,20,1016.8,,,,E,20,1012.0

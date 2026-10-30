@@ -1,0 +1,39 @@
+"Daily Weather Observations for Katherine, Northern Territory for November 2022"
+"Prepared at 13:03 UTC on Saturday  8 July 2023   IDCJDW8024.202211"
+"Copyright 2003 Commonwealth Bureau of Meteorology"
+"Most observations from Katherine Country Club, but some from Tindal RAAF base."
+"Observations were previously taken at the Katherine Aviation Museum; if you require these please contact us. Tindal RAAF base is 13 kilometres away from Katherine Country Club where most of the observation are taken."
+"Temperature, humidity, cloud, evaporation and rainfall observations are from Katherine Country Club {station 014305}"
+"Wind and pressure observations are from Tindal RAAF {station 014932}"
+
+,"Date","Minimum temperature (°C)","Maximum temperature (°C)","Rainfall (mm)","Evaporation (mm)","Sunshine (hours)","Direction of maximum wind gust ","Speed of maximum wind gust (km/h)","Time of maximum wind gust","9am Temperature (°C)","9am relative humidity (%)","9am cloud amount (oktas)","9am wind direction","9am wind speed (km/h)","9am MSL pressure (hPa)","3pm Temperature (°C)","3pm relative humidity (%)","3pm cloud amount (oktas)","3pm wind direction","3pm wind speed (km/h)","3pm MSL pressure (hPa)"
+,2022-11-1,,,,,,SSW,31,11:37,,,,SW,13,1009.6,,,,S,11,1004.2
+,2022-11-2,,,,,,E,57,19:38,,,,ESE,20,1009.6,,,,SSE,13,1003.8
+,2022-11-3,,,,,,E,48,12:45,,,,E,26,1011.8,,,,NNE,11,1006.8
+,2022-11-4,,,,,,NNE,31,01:13,,,,ESE,17,1014.5,,,,ENE,17,1009.4
+,2022-11-5,,,,,,E,30,12:23,,,,E,13,1014.2,,,,ESE,7,1008.7
+,2022-11-6,,,,,,ENE,28,11:56,,,,NW,6,1012.6,,,,SE,15,1007.1
+,2022-11-7,,,,,,W,33,10:35,,,,NNW,19,1011.8,,,,W,13,1006.6
+,2022-11-8,,,,,,NNW,39,22:05,,,,WNW,17,1009.2,,,,NNE,13,1004.4
+,2022-11-9,,,,,,NNW,39,12:24,,,,WNW,19,1010.3,,,,NW,9,1004.9
+,2022-11-10,,,,,,ESE,57,22:07,,,,WNW,11,1010.3,,,,S,6,1005.2
+,2022-11-11,,,,,,NW,44,19:48,,,,NNE,7,1010.3,,,,NNE,13,1005.2
+,2022-11-12,,,,,,N,30,21:47,,,,NW,17,1010.1,,,,NW,7,1005.0
+,2022-11-13,,,,,,SE,44,19:28,,,,NW,19,1010.6,,,,NNE,9,1005.6
+,2022-11-14,,,,,,SSE,87,15:34,,,,NW,7,1009.6,,,,WNW,11,1004.8
+,2022-11-15,,,,,,ESE,72,16:33,,,,SSE,19,1010.2,,,,WNW,11,1005.1
+,2022-11-16,,,,,,ENE,39,14:31,,,,SE,2,1009.4,,,,E,24,1004.1
+,2022-11-17,,,,,,S,48,13:09,,,,W,13,1009.2,,,,SSE,30,1006.6
+,2022-11-18,,,,,,NE,56,18:45,,,,WSW,2,1008.6,,,,N,2,1003.6
+,2022-11-19,,,,,,E,63,19:53,,,,N,4,1009.2,,,,NNE,15,1003.1
+,2022-11-20,,,,,,N,59,13:56,,,, ,Calm,1008.9,,,,SSW,17,1005.2
+,2022-11-21,,,,,,SE,59,14:31,,,, ,Calm,1009.4,,,,SW,22,1006.5
+,2022-11-22,,,,,,NNW,43,18:45,,,,E,19,1011.6,,,,E,19,1006.4
+,2022-11-23,,,,,,NE,41,18:00,,,,SSW,13,1012.0,,,,SE,7,1007.0
+,2022-11-24,,,,,,N,46,17:42,,,,WNW,6,1012.0,,,,NNE,7,1007.8
+,2022-11-25,,,,,,N,39,17:35,,,, ,Calm,1012.2,,,,ENE,11,1006.8
+,2022-11-26,,,,,,NNE,57,19:50,,,,NW,7,1011.2,,,,WNW,15,1005.9
+,2022-11-27,,,,,,NW,41,19:01,,,,SW,9,1008.7,,,,NNW,4,1002.9
+,2022-11-28,,,,,,WNW,48,12:58,,,,NW,13,1006.0,,,,WNW,7,1003.7
+,2022-11-29,,,,,,SE,69,16:59,,,,SW,13,1006.8,,,,SSE,20,1001.4
+,2022-11-30,,,,,,ESE,41,14:19,,,,SE,15,1006.0,,,,ESE,24,1002.4

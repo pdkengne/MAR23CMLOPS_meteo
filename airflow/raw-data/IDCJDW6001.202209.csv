@@ -1,0 +1,39 @@
+"Daily Weather Observations for Albany, Western Australia for September 2022"
+"Prepared at 13:02 UTC on Monday 10 July 2023   IDCJDW6001.202209"
+"Copyright 2003 Commonwealth Bureau of Meteorology"
+"Most observations from a city site down near the harbour, but some from the airport."
+"The airport is approximately 11 kilometres inland and on some days can experience quite different evaporation and sunshine conditions from those in the city."
+"Temperature, humidity, wind, cloud and rainfall observations are from Albany {station 009500}"
+"Pressure, evaporation and sunshine observations are from Albany Airport {station 009999}"
+
+,"Date","Minimum temperature (°C)","Maximum temperature (°C)","Rainfall (mm)","Evaporation (mm)","Sunshine (hours)","Direction of maximum wind gust ","Speed of maximum wind gust (km/h)","Time of maximum wind gust","9am Temperature (°C)","9am relative humidity (%)","9am cloud amount (oktas)","9am wind direction","9am wind speed (km/h)","9am MSL pressure (hPa)","3pm Temperature (°C)","3pm relative humidity (%)","3pm cloud amount (oktas)","3pm wind direction","3pm wind speed (km/h)","3pm MSL pressure (hPa)"
+,2022-09-1,10.5,,7.8,,,,,,13.5,82,3,E,6,1030.3,,,,,,1028.6
+,2022-09-2,,17.7,1.8,,,,,,,,,,,1029.7,,,,,,1025.4
+,2022-09-3,13.0,17.4,0,,,,,,14.0,76,8,E,20,1022.5,,,,,,1018.3
+,2022-09-4,12.6,,0,,,,,,14.0,69,7,NE,28,1015.9,,,,,,1011.6
+,2022-09-5,,17.5,7.6,,,,,,,,,,,1010.0,,,,,,1007.9
+,2022-09-6,7.8,15.1,0.6,,,,,,11.9,88,6,W,6,1008.5,,,,,,1007.6
+,2022-09-7,11.5,15.5,2.0,,,,,,14.6,69,4,SSW,35,1014.6,,,,,,1017.2
+,2022-09-8,11.2,14.3,0,,,,,,12.6,64,7, ,Calm,1022.3,,,,,,1020.1
+,2022-09-9,10.0,17.8,0,,,,,,13.7,66,3,NE,6,1019.8,,,,,,1016.7
+,2022-09-10,8.1,17.8,0,,,,,,13.6,82,1,W,11,1020.5,,,,,,1018.5
+,2022-09-11,8.1,22.5,0,,,,,,13.6,82,1,W,11,1018.6,,,,,,1014.4
+,2022-09-12,11.8,,0,,,,,,15.5,80,4,W,9,1009.6,,,,,,1005.1
+,2022-09-13,,18.5,3.0,,,,,,,,,,,998.9,,,,,,998.3
+,2022-09-14,10.5,16.1,4.2,,,,,,14.0,61,6,E,48,1014.7,,,,,,1013.9
+,2022-09-15,12.1,,1.2,,,,,,14.4,69,5,W,41,1020.1,,,,,,1019.1
+,2022-09-16,,15.8,0.4,,,,,,,,,,,1021.4,,,,,,1020.5
+,2022-09-17,11.4,17.2,0,,,,,,14.5,,7,W,19,1018.9,,,,,,1017.3
+,2022-09-18,11.2,,0.6,,,,,,13.8,84,6,N,9,1016.8,,,,,,1012.5
+,2022-09-19,,,6.2,,,,,,,,,,,1009.1,,,,,,1010.4
+,2022-09-20,,20.8,2.0,,,,,,,,,,,1015.8,,,,,,1014.1
+,2022-09-21,12.4,22.3,0,,,,,,17.2,73,1,W,6,1014.3,,,,,,1011.9
+,2022-09-22,7.9,14.8,4.0,,,,,,11.9,76,6,W,6,1023.6,,,,,,1023.2
+,2022-09-23,6.3,20.6,0,,,,,,14.2,59,4,NNE,11,1020.1,,,,,,1013.4
+,2022-09-24,11.0,15.2,4.6,,,,,,13.8,58,6,SW,37,1016.1,,,,,,1017.0
+,2022-09-25,9.3,16.4,0.6,,,,,,12.8,93,,W,19,1021.3,,,,,,1020.7
+,2022-09-26,11.6,,2.0,,,,,,14.6,84,8,,,1027.2,,,,,,1024.9
+,2022-09-27,,,0,,,,,,,,,,,1024.6,,,,,,1021.3
+,2022-09-28,,,0.3,,,,,,,,,,,1021.8,,,,,,1019.6
+,2022-09-29,,20.1,0,,,,,,,,,,,1025.0,,,,,,1023.0
+,2022-09-30,13.1,20.0,0,,,,,,16.1,59,1,NNE,9,1026.6,,,,,,1021.7

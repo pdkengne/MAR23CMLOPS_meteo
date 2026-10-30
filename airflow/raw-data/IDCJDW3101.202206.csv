@@ -1,0 +1,39 @@
+"Daily Weather Observations for Dartmoor, Victoria for June 2022"
+"Prepared at 13:01 UTC on Thursday 13 July 2023   IDCJDW3101.202206"
+"Copyright 2003 Commonwealth Bureau of Meteorology"
+"Most observations from Dartmoor, but evaporation and sunshine from Mt Gambier."
+"Mt Gambier is about 50 km to the west of Dartmoor, and conditions may differ markedly between the two on any given day; the results for evaporation and sunshine, and the climate averages listed below, should be used with caution."
+"Temperature, humidity, wind, pressure and rainfall observations are from Dartmoor {station 090194}"
+"Evaporation and sunshine observations are from Mount Gambier Aero {station 026021}"
+
+,"Date","Minimum temperature (°C)","Maximum temperature (°C)","Rainfall (mm)","Evaporation (mm)","Sunshine (hours)","Direction of maximum wind gust ","Speed of maximum wind gust (km/h)","Time of maximum wind gust","9am Temperature (°C)","9am relative humidity (%)","9am cloud amount (oktas)","9am wind direction","9am wind speed (km/h)","9am MSL pressure (hPa)","3pm Temperature (°C)","3pm relative humidity (%)","3pm cloud amount (oktas)","3pm wind direction","3pm wind speed (km/h)","3pm MSL pressure (hPa)"
+,2022-06-1,4.3,12.6,8.6,,,SSW,39,10:29,8.7,81,,SW,9,1014.8,12.4,62,,SW,13,1017.1
+,2022-06-2,3.2,12.7,1.4,,,NNW,30,14:22,7.1,100,,N,9,1020.8,11.8,71,,N,11,1017.4
+,2022-06-3,7.0,14.3,0,,,NNW,44,12:16,9.6,81,,N,15,1010.9,13.1,80,,NNW,19,1006.8
+,2022-06-4,8.2,12.9,8.0,,,NNW,63,23:38,9.1,,,N,17,1006.9,11.5,98,,NNW,15,1003.3
+,2022-06-5,6.9,11.2,11.8,,,NNW,54,00:01,8.1,97,,N,19,997.5,8.7,97,,NW,17,995.2
+,2022-06-6,5.7,11.0,7.4,,,WSW,41,13:22,7.6,98,,WNW,9,1006.5,9.9,94,,WNW,9,1007.4
+,2022-06-7,5.5,12.3,13.6,,,SSW,41,09:54,6.9,98,,SW,6,1013.9,11.6,73,,WSW,15,1015.4
+,2022-06-8,5.9,12.8,2.4,,,WSW,37,14:03,8.3,99,,SW,2,1021.9,10.1,98,,SW,13,1020.6
+,2022-06-9,8.2,13.4,2.0,,,WSW,33,11:40,10.0,99,,WSW,9,1019.9,12.2,99,,WSW,11,1019.2
+,2022-06-10,9.2,13.0,4.0,,,SW,39,11:57,10.8,100,,WNW,6,1021.2,11.5,83,,SSW,15,1021.2
+,2022-06-11,7.6,12.8,2.6,,,WSW,39,22:17,9.5,92,,WNW,7,1023.4,11.9,79,,WSW,13,1021.2
+,2022-06-12,8.8,12.7,1.8,,,SW,31,00:29,9.5,100,,SW,6,1022.2,12.0,91,,SSW,13,1021.5
+,2022-06-13,6.2,13.1,1.8,,,NNW,15,14:07,7.2,,,N,4,1024.2,11.5,98,,N,4,1022.4
+,2022-06-14,5.3,13.8,,,,N,46,19:17,8.7,96,,N,17,1019.1,13.5,72,,NNE,20,1013.2
+,2022-06-15,8.6,15.7,1.0,,,N,44,01:20,11.1,100,,N,19,1009.2,15.0,98,,WNW,20,1008.3
+,2022-06-16,11.1,13.8,10.8,,,SSW,35,13:36,11.6,100,,SW,7,1018.9,12.4,98,,SSW,13,1019.9
+,2022-06-17,8.2,15.1,1.0,,,NW,13,13:25,9.2,,,N,2,1024.6,14.3,92,,NNW,6,1024.0
+,2022-06-18,1.7,15.4,,,,NNE,22,15:22,4.5,,, ,Calm,1027.1,14.0,74,,NNE,13,1024.9
+,2022-06-19,3.9,12.3,0,,,NNE,41,15:44,6.2,100,,ENE,4,1024.2,10.6,92,,NNE,15,1019.8
+,2022-06-20,6.2,12.7,0,,,NNE,44,01:48,11.7,90,,NNE,22,1015.3,11.7,99,,N,17,1012.9
+,2022-06-21,5.7,14.9,6.4,,,NW,28,13:52,7.3,,,N,4,1018.9,13.8,78,,WNW,11,1019.0
+,2022-06-22,7.3,14.6,1.4,,,NNW,30,21:39,10.6,,,N,7,1023.9,13.6,100,,NNW,7,1022.6
+,2022-06-23,10.6,15.8,0.2,,,NNW,41,14:20,12.0,100,,NNW,19,1019.7,15.5,89,,NNW,19,1014.9
+,2022-06-24,9.7,14.3,7.0,,,W,31,11:41,10.0,100,,NW,7,1015.5,12.8,93,,W,13,1015.7
+,2022-06-25,7.5,14.9,0.8,,,WNW,35,15:18,8.9,,,NNW,13,1018.3,14.7,86,,NW,19,1017.4
+,2022-06-26,8.8,12.2,3.2,,,WSW,26,14:47,9.4,,,NW,6,1024.4,9.5,97,,WSW,15,1026.6
+,2022-06-27,1.4,13.5,1.8,,,WNW,17,14:24,3.4,,, ,Calm,1034.2,11.8,75,,WNW,7,1033.4
+,2022-06-28,3.3,13.4,0,,,N,35,10:49,6.3,97,,N,9,1029.8,12.1,66,,NNW,13,1026.0
+,2022-06-29,4.9,11.2,0.2,,,NNW,28,12:47,6.2,87,,NNE,13,1021.1,9.8,99,,N,11,1018.5
+,2022-06-30,5.9,14.4,10.6,,,SSE,28,17:18,6.8,,, ,Calm,1025.1,12.9,98,,SSW,4,1025.7
